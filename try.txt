@@ -1,0 +1,1154 @@
+<style>
+.p8{
+    margin-top: 10px;
+    margin-left: 0%;
+    float: left;
+}
+.p9{
+    margin-top: 15px;
+    margin-left: 0%;
+    float: left;
+}
+.p10{
+    margin-top: 15px;
+    margin-left: -32%;
+    float: left;
+}
+.line48{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 4%;
+    margin-top: 40px;
+    margin-left: -0.1%;
+}
+.line47{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 3%;
+    margin-top: 20px;
+    margin-left: -0.1%;
+}
+.line46{
+    border-left: 2px solid #5B9BD5;
+    margin-left: 12%;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 22px;
+}
+.line49{
+    border-left: 2px solid #5B9BD5;
+    margin-left: 10%;
+    margin-top: 0px;
+    padding-top: 5px;
+    padding-bottom: 27px;
+}
+.line44{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 4%;
+    margin-top: 50px;
+    margin-left: -0.1%;
+}
+.line45{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 3%;
+    margin-top: 15px;
+    margin-left: -0.1%;
+}
+.line50{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 2%;
+    margin-top: 20px;
+    margin-left: -0.1%;
+}
+.line51{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 2%;
+    margin-top: 25px;
+    margin-left: -0.1%;
+}
+.line42{
+    border-left: 2px solid #5B9BD5;
+    margin-left: 6.5%;
+    margin-top: 15px;
+    padding-bottom: 13px;
+    padding-top: 12px;
+}
+.line43{
+    border-left: 2px solid #5B9BD5;
+    margin-left: 13.5%;
+    margin-top: 15px;
+    padding-bottom: 13px;
+    padding-top: 12px;
+}
+.line40{
+    border-left: 2px solid #5B9BD5;
+    margin-left: 6%;
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 52px;
+}
+.line41{
+    border-left: 2px solid #5B9BD5;
+    margin-left: 6%;
+    margin-top: 15px;
+    padding-bottom: 13px;
+    padding-top: 12px;
+}
+.p7{
+    margin-left: 2%;
+    float: left;
+    margin-top: -20px;
+}
+.p6{
+    margin-top: 0px;
+    margin-left: 0.9%;
+    float: left;
+}
+.p5{
+    margin-top: 40px;
+    margin-left: 1%;
+    float: left;
+}
+.p4{
+    text-indent: -5%;
+    margin-right: 1%;
+    margin-left: 18%;
+}
+.p3{
+    margin-top: 40px;
+    margin-left: 2.5%;
+}
+.p2{
+    margin-left: 8.6%;
+    margin-top: 5px;
+    text-indent: -4%;
+    margin-right: 2%;
+}
+.p1{
+    text-indent: -5%;
+    margin-left: 20%;
+    margin-right: 2%;"
+}
+.top{
+    position: relative;
+    z-index: 9;
+}
+html, body{
+    height:auto;
+}
+.topa{
+    text-decoration:none;
+    color:black;
+}
+.topa1{
+    text-decoration:none;
+    color:black;
+}
+.topa2{
+    text-decoration:none;
+    color:black;
+}
+md-tabs-canvas.md-paginated {
+    margin: 0px;
+}
+.line1{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 1469px;
+    float: left;
+    margin-left: 7%;
+}
+.line2{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 4%;
+    margin-top: 50px;
+    margin-left: -0.1%;
+}
+.line3{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 352px;
+    float: left;
+    margin-left: 5%;
+    margin-top: 0px;
+}
+.line4{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 2.5%;
+    margin-top: 15px;
+    margin-left: -0.1%;
+}
+.line5{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 163px;
+    float: left;
+    margin-left: -1.5%;
+    margin-top: 17px;
+}
+.line6{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 1.2%;
+    margin-top: 12px;
+    margin-left: -0.2%;
+}
+.line7{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 40px;
+    float: left;
+    margin-left: -51%;
+    margin-top: 10px;
+}
+.line8{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 2%;
+    margin-top: 48px;
+    margin-left: -51%;
+}
+.line9{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 2%;
+    margin-top: 23px;
+    margin-left: -49%;
+}
+.line10{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 74px;
+    float: left;
+    margin-left: -49%;
+    margin-top: 24px;
+    width: 2.5%;
+}
+.line11{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 2%;
+    margin-top: 11px;
+    margin-left: 5.7%;
+}
+.line12{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 2%;
+    margin-top: 50px;
+    margin-left: -0.1%;
+}
+.line13{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 4%;
+    margin-top: 50px;
+    margin-left: -0.1%;
+    margin-right: 0.5%;
+}
+.line14{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 4%;
+    margin-top: 50px;
+    margin-left: -0.1%;
+    margin-right: 0.5%;
+}
+.line15{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 35px;
+    float: left;
+    margin-left: 6%;
+    margin-top: 0px;
+    width: 2.5%;
+}
+.line16{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 2%;
+    margin-top: 33px;
+    margin-left: -2.7%;
+}
+.line17{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 2%;
+    margin-top: 10px;
+    margin-left: -0.7%;
+}
+.line18{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 50px;
+    float: left;
+    margin-left: -2%;
+    margin-top: 11px;
+}
+.line19{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 2%;
+    margin-top: 13px;
+    margin-left: 8.2%;
+}
+.line20{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 4%;
+    margin-top: 50px;
+    margin-left: -0.1%;
+    margin-right: 0.5%;
+}
+.line21{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 4%;
+    margin-top: 50px;
+    margin-left: -0.1%;
+    margin-right: 0.5%;
+}
+.line22{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 4%;
+    margin-top: 50px;
+    margin-left: -0.1%;
+}
+.line23{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 507px;
+    float: left;
+    margin-left: 7%;
+}
+.line24{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 140px;
+    float: left;
+    margin-left: -1.5%;
+    margin-top: 17px;
+}
+.line25{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 20px;
+    float: left;
+    margin-left: 4.5%;
+    margin-top: 8px;
+}
+.line26{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 2%;
+    margin-top: 27px;
+    margin-left: -0.2%;
+}
+.line27{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 253px;
+    float: left;
+    margin-left: 5%;
+    margin-top: 0px;
+}
+.line28{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 4%;
+    margin-top: 50px;
+    margin-left: -7.3%;
+}
+.line29{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 4%;
+    margin-top: 10px;
+    margin-left: -0.1%;
+    margin-right: 0.5%;
+}
+.line30{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 12px;
+    float: left;
+    margin-left: 6%;
+    margin-top: 0px;
+}
+.line31{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 4%;
+    margin-top: 10px;
+    margin-left: -0.1%;
+    margin-right: 0.5%;
+}
+.line32{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 878px;
+    float: left;
+    margin-left: 7%;
+}
+.line33{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 12px;
+    float: left;
+    margin-left: 6%;
+    margin-top: 0px;
+}
+.line34{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 2%;
+    margin-top: 10px;
+    margin-left: -0.1%;
+    margin-right: 0.5%;
+}
+.line35{
+    border: none;
+    border-left: 2px solid #5B9BD5;
+    height: 175px;
+    float: left;
+    margin-left: 7%;
+}
+.line36{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 4%;
+    margin-top: 10px;
+    margin-left: -0.1%;
+    margin-right: 0.5%;
+}
+.line37{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 2%;
+    margin-top: 10px;
+    margin-left: -0.1%;
+    margin-right: 0.5%;
+}
+.line38{
+    float: left;
+    border: none;
+    border-top: 2px solid #5B9BD5;
+    width: 4%;
+    margin-top: 50px;
+    margin-left: -0.1%;
+}
+@media all and (-ms-high-contrast: none) {
+.p1{
+    text-indent:-4%;
+}
+.p2{
+    text-indent:-3.6%;
+}
+.p4{
+    text-indent:-4%;
+    margin-left: 18.2%;
+}
+.p5{
+    margin-top:40px;
+}
+.p6{
+    margin-bottom:-11px;
+}
+.line1{
+    height:1487px;
+}
+.line2{
+
+}
+.line3{
+    height:379px;
+}
+.line4{
+
+}
+.line5{
+    height:168px;
+}
+.line6{
+    margin-left:-1px;
+}
+.line7{
+    margin-left:2%;
+}
+.line8{
+    margin-left:0%;
+}
+.line9{
+    margin-left:0%;
+}
+.line10{
+    margin-left:-2%;
+}
+.line11{
+    margin-left:-2.7%;
+}
+.line12{
+
+}
+.line13{
+
+}
+.line14{
+
+}
+.line15{
+
+}
+.line16{
+
+}
+.line17{
+
+}
+.line22{
+    margin-top:50px;
+}
+.line19{
+    margin-left:-2%;
+}
+.line24{
+    height:145px;
+}
+.line23{
+    height:517px;
+}
+.line27{
+    margin-top:0px;
+}
+.line32{
+    height: 893px;
+}
+.line35{
+    height: 199px;
+}
+}
+</style>
+<p style="margin-left: 20px;text-indent: 1em;">新型コロナウイルスに関して、厚生労働省等から現在の状況や新型コロナウイルスに対するお知らせ、国民の皆様へのお願い、働く方・経営者への支援、Q&Aといった情報が掲載されていますのでリンクでご案内します。</p>
+<p style="margin-left: 20px;text-indent: 1em;">また、福祉医療機構では、新型コロナウイルス感染症により施設自身の責に帰することができない理由で機能停止等になった場合に対応するため、経営資金等の優遇融資を実施しております。</p>
+<img alt="画像" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/1/cov19top02.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/1-ouf5ZRm" title="" style="width:960px;margin-top:10px;height:470px;float:left;" usemap="#ImageMap" />
+<map name="ImageMap">
+  <area shape="rect" coords="37,17,468,55" href="#004" alt="厚生労働省等からのお知らせはこちらから" onClick="OnLinkClick(0);" class="topa" id="topa"/>
+  <area shape="rect" coords="123,80,329,118" href="#004" alt="一般の方向けを表示" onClick="OnLinkClick(1);" class="topa"/>
+  <area shape="rect" coords="123,132,330,170" href="#004" alt="施設経営者向けコンテンツ" onClick="OnLinkClick(2);" class="topa"/>
+  <area shape="rect" coords="121,185,370,222" href="#004" alt="医療・福祉関係者向け" onClick="OnLinkClick(3);" class="topa"/>
+  <area shape="rect" coords="36,242,347,280" href="#003" alt="" class="topa1"/>
+  <area shape="rect" coords="36,300,348,340" href="#002" alt="" class="topa2"/>
+  <area shape="rect" coords="37,357,416,396" href="https://www.covid19-info.jp/" alt="COVID-19 Multilingual Guide" target="_blank"/>
+</map>
+<p style="float: left;position: relative;margin-top: -447px;font-size: 120%;margin-left: 8.5%;"><a href="#004" onClick="OnLinkClick(0);" title="厚生労働省等からのお知らせはこちらから" class="topa">厚生労働省等からのお知らせはこちらから</a></p>
+<p style="float: left;position: relative;margin-top: -381px;margin-left: 18%;"><a onClick="OnLinkClick(1);" href="#004" title="一般の方向けを表示" class="topa">一般の方向け</a></p>
+<p style="float: left;position: relative;margin-top: -330px;margin-left: 18%;"><a onClick="OnLinkClick(2);" href="#004" title="施設経営者向け" class="topa">施設経営者向け</a></p>
+<p style="float: left;position: relative;margin-top: -278px;margin-left: 18%;"><a onClick="OnLinkClick(3);" href="#004" title="医療・福祉" class="topa">
+医療・福祉関係者向け</a></p>
+<p style="float: left;position: relative;margin-top: -337px;margin-left: 40.5%;font-weight: bold;font-size: 80%;color: white;transform: rotate(-3deg);">利用者ごとに<br>抽出できます</p>
+<p style="float: left;position: relative;margin-top: -220px;font-size: 120%;margin-left: 8.5%;"><a href="#003" title="WAMからのお知らせ" class="topa1">WAMからのお知らせ</a></p>
+<p style="float: left;position: relative;margin-top: -163px;font-size: 120%;margin-left: 8.5%;"><a href="#002" title="各府省等からのお知らせ" class="topa2">各府省等からのお知らせ</a></p>
+<p style="float: left;position: relative;margin-top: -105px;font-size: 120%;margin-left: 8.5%;"><a href="https://www.covid19-info.jp/" title="COVID-19 Multilingual Guide" target="_blank" class="topa">COVID-19 Multilingual Guide</a></p>
+<p style="float: left;position: relative;margin-top: -53px;margin-left: 23.3%;font-size: 60%;color: red;">いろいろ</p>
+<p style="float: left;position: relative;margin-top: -53px;margin-left: 28.1%;font-size: 60%;color: red;">くに</p>
+<p style="float: left;position: relative;margin-top: -53px;margin-left: 31.3%;font-size: 60%;color: red;">ことば</p>
+<p style="float: left;position: relative;margin-top: -53px;margin-left: 35.3%;font-size: 60%;color: red;">せつめい</p>
+<p style="float: left;position: relative;margin-top: -40px;margin-left: 10.5%;font-size: 90%;color: red;">COVID-19について色々な国の言葉で説明します</p>
+<div style="background: #ffffe5;border: 5px solid #ff9999;border-radius: 20px;padding-top: 20px;padding-right: 10px;padding-bottom: 30px;margin-top:510px;width: 940px;" id="004">
+<div ng-cloak="" class="tabsdemoCenterTabs" ng-app="MyApp" style="width: 910px;margin-left: 2%;border: 2px solid #D9D9D9;" id="divtab">
+<md-content>
+<md-tabs class="md-primary stic" md-center-tabs="" id="tabltotal">
+<md-tab>
+<md-tab-label>
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/2/allicon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/2-ouf5ZRm" alt="全てを表示" style="width: 28%;vertical-align: middle;margin: 0px -5px 0px 0px;" title="全てのコンテンツ表示" /><span style="color:black;">全て</span></md-tab-label>
+<md-tab-body>
+<!--<a href="https://www.covid19-info.jp/" target=_blank"" title="COVID-19 Multilingual Guide" style="text-decoration:none;color:black">
+<div class="divlink" style="height: 100px;color:#004ca2;background:#fff016;border:2px solid #f2f2f2;text-align:center;width: 35%;float: right;margin-top: 30px;margin-right: 15px;"><p style="font-size: 110%;font-weight:bold;text-align: left;margin-left: 10px;margin-top: 5px;">COVID-19 Multilingual Guide</p><img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/3/linkicon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/3-ouf5ZRm" alt="リンクアイコン" title="" style="float: right;width: 20px;margin-right: 10px;margin-top: -25px;" />
+<p style="font-size:60%;margin-top: 5px;"><span style="margin-left: 66px;">いろいろ</span><span style="margin-left: 8px;">くに</span><span style="margin-left: 7px;">ことば</span><span style="margin-left: 3px;">せつめい</span></p>
+<p style="font-size: 80%;">COVID-19について色々な国の言葉で説明します</p>
+<p style="font-size:70%;margin-top: 7px;margin-bottom: 12px;">厚生労働省（Ministry of Health, Labour and Welfare）</p>
+</div></a>-->
+<p style="font-weight: bold;font-size: 120%;margin-top: 35px;margin-left: 20px;height: 29px;">〇 厚生労働省ホームページ</p>
+<p style="margin-left: 30px;">「<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html" target="_blank" title="新型コロナウイルス感染症について">新型コロナウイルス感染症について</a>」</p>
+<div class="line40">
+<p style="margin-top: 25px;margin-left: 2%;margin-bottom: 10px;">この中に、下のようなリンクページが含まれています。</p>
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/4/konew.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/4-ouf5ZRm" alt="new" title="" style="vertical-align: middle;width: 50px;margin-right: -5px;margin-left: 2%;float:left;margin-top:2px;" /><p style="margin-left: 8%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向けを表示" alt="一般の方向け"><a href="https://www.mhlw.go.jp/content/000927280.pdf" target="_blank" title="新型コロナウイルス感染症の&ldquo;いま&rdquo;についての11の知識">新型コロナウイルス感染症の“いま”についての11の知識</a></p>
+<p style="margin-left: 8%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt=""><a href="https://www.wam.go.jp/gyoseiShiryou/detail?gno=6938&amp;ct=030100240" target="_blank" title="新型コロナウイルス感染症の現在の状況について">新型コロナウイルス感染症の現在の状況について</a></p>
+<p style="margin-left: 8%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html" target="_blank" title="新型コロナウイルスに関するQ&amp;A(一般の方向け)">新型コロナウイルスに関するQ&A(一般の方向け)</a></p>
+<p style="margin-left: 8%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/covid19-kikokusyasessyokusya.html" target="_blank" title="新型コロナウイルスに関する都道府県の相談窓口等の情報">新型コロナウイルスに関する都道府県の相談窓口等の情報</a></p>
+<!-- add 2022/11/11 -->
+<p style="margin-left: 8%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt=""><a href="https://www.wam.go.jp/gyoseiShiryou/detail-list?bun=030100655" target="_blank" title="新型コロナウイルス感染症対策アドバイザリーボードへのリンク">新型コロナウイルス感染症対策アドバイザリーボード【行政情報＞医療】</a></p>
+<hr class="line2">
+<p class="p3"><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_00184.html" title="新型コロナワクチンについて" target="_blank">新型コロナワクチンについて</a></p>
+<hr class="line3">
+<hr class="line4">
+<div class="line41">
+<p class="p7"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_yuukousei_anzensei.html" title="新型コロナワクチンの有効性・安全性について" target="_blank">新型コロナワクチンの有効性・安全性について</a></p>
+<p style="margin-left:2%;margin-top:5px;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_hukuhannou-utagai-houkoku.html" title="新型コロナワクチンの副反応疑い報告について" target="_blank">新型コロナワクチンの副反応疑い報告について</a></p>
+<p style="margin-left:2%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00218.html" title="接種についてのお知らせ" target="_blank">接種についてのお知らせ</a></p>
+<p style="margin-left:2%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://v-sys.mhlw.go.jp/" title="コロナワクチンナビ" target="_blank">コロナワクチンナビ</a></p>
+<p style="margin-left:2%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html" title="新型コロナワクチンの接種実績" target="_blank">新型コロナワクチンの接種実績</a></p>
+<p style="margin-left:2%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_shokuiki.html" title="職域接種に関するお知らせ" target="_blank">職域接種に関するお知らせ</a></p>
+<hr class="line6">
+<p class="p6"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_notifications.html" title="新型コロナワクチンに関する自治体向け通知・事務連絡等" target="_blank">新型コロナワクチンに関する自治体向け通知・事務連絡等</a></p>
+</div>
+<hr class="line7">
+<hr class="line8">
+<hr class="line9">
+<hr class="line10">
+<p style="margin-left:14%;margin-top:15px;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/content/000786973.pdf" title="「新型コロナワクチンの職域接種の開始について」（事務連絡）" target="_blank">「新型コロナワクチンの職域接種の開始について」（事務連絡）</a></p>
+<p class="p4"><img src="/content/img/covid19/covid19_icon01202.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="医療関係者向け" alt="医療関係者向け"><a href="https://www.mhlw.go.jp/content/000788723.pdf" title="「新型コロナウイルス感染症のワクチン接種を推進するための各医療関係職種の専門性を踏まえた対応の在り方等について」（医政局長、健康局長、医薬・生活衛生局長通知）" target="_blank">「新型コロナウイルス感染症のワクチン接種を推進するための各医療関係職種の専門性を踏まえた対応の在り方等について」（医政局長、健康局長、医薬・生活衛生局長通知）</a></p>
+<hr class="line11">
+<p class="p4"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: 0px 15px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/content/000797190.pdf" title="新型コロナウイルス感染症に係るワクチンの迅速な接種のための体制確保に係る医療法上の臨時的な取扱いについて（その５）（厚生労働省医政局総務課、経営支援課通知）" target="_blank">新型コロナウイルス感染症に係るワクチンの迅速な接種のための体制確保に係る医療法上の臨時的な取扱いについて（その５）（厚生労働省医政局総務課、経営支援課通知）</a></p>
+<hr class="line12">
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/5/konew.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/5-ouf5ZRm" alt="new" title="" style="vertical-align: middle;width: 50px;margin-right: -5px;margin-left: -4%;float:left;margin-top:42px;" /><p style="margin-top:40px;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.cov19-vaccine.mhlw.go.jp/qa/" title="新型コロナワクチンQ＆A" target="_blank">新型コロナワクチンQ＆A</a></p>
+<hr class="line13">
+<p style="margin-top:40px;"><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00332.html" target="_blank" title="医療機関等向け情報">医療機関等向け情報</a></p>
+<p style="margin-left:5%;margin-top:5px;"><img src="/content/img/covid19/covid19_icon01202.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="医療関係者向け" alt="医療関係者向け"><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00004.html" target="_blank" title="新型コロナウイルスに関するQ&amp;A（医療機関・検査機関の方向け）">新型コロナウイルスに関するQ&A（医療機関・検査機関の方向け）</a></p>
+<p style="margin-left:5%;"><img src="/content/img/covid19/covid19_icon01202.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="医療関係者向け" alt="医療関係者向け"><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00111.html" target="_blank" title="新型コロナウイルス感染症 診療の手引き">新型コロナウイルス感染症 診療の手引き</a></p>
+<p style="margin-left:5%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="医療関係者向け" alt="医療関係者向け"><a href="https://www.mhlw.go.jp/content/000858255.pdf" target="_blank" title="医療施設等における感染拡大防止に留意した面会の事例について">医療施設等における感染拡大防止に留意した面会の事例について</a> (<a href="https://www.mhlw.go.jp/content/000858256.pdf" target="_blank" title="別添">別添</a>)</p>
+<p style="margin-left:5%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="医療関係者向け" alt="医療関係者向け"><a href="https://www.mhlw.go.jp/content/000701772.pdf" target="_blank" title="国民の健康と安心につなげるための医療機関等への更なる支援策">国民の健康と安心につなげるための医療機関等への更なる支援策</a> (<a href="https://www.mhlw.go.jp/content/000682403.pdf" target="_blank" title="パンフレット">パンフレット</a>)</p>
+<p style="margin-left: 5%;"><img src="/content/img/covid19/covid19_icon01202.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="医療関係者向け" alt="医療関係者向け">「<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/11596.html" target="_blank" title="医療のお仕事 Key-NET">医療のお仕事 Key-NET</a>」</p>
+<hr class="line14">
+<p style="margin-top: 40px;"><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00089.html" target="_blank" title="介護事業所等向け情報">介護事業所等向け情報</a></p>
+<p style="margin-left:5%;margin-top:5px;">
+<img src="/content/img/covid19/02.png" style="width: 2.2%;vertical-align: middle;margin: 0px 3px;" title="施設経営者向け" alt="">「<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/taisakumatome_13635.html" target="_blank" title="介護事業所等向けの新型コロナウイルス感染症対策等まとめページ">介護事業所等向けの新型コロナウイルス感染症対策等まとめページ</a>」</p>
+<hr class="line15">
+<hr class="line16">
+<hr class="line17">
+<hr class="line18">
+<p style="margin-left: 11%;"><a href="https://www.mhlw.go.jp/content/12300000/000757739.pdf" title="新型コロナウイルス感染症に対応する介護施設等の職員のためのサポートガイド" target="_blank">新型コロナウイルス感染症に対応する介護施設等の職員のためのサポートガイド</a></p>
+<p style="margin-left: 11%;"><a href="https://www.mhlw.go.jp/content/12300000/000814179.pdf" title="介護現場における感染対策の手引き" target="_blank">介護現場における感染対策の手引き</a></p>
+<hr class="line19">
+<p style="margin-left: 11%;">介護職員のための感染症対策マニュアル →（ <a href="https://www.mhlw.go.jp/content/12300000/000678255.pdf" target="_blank" title="施設系">施設系</a> ｜ <a href="https://www.mhlw.go.jp/content/12300000/000678256.pdf" target="_blank" title="通所系">通所系</a> ｜ <a href="https://www.mhlw.go.jp/content/12300000/000678257.pdf" target="_blank" title="訪問系">訪問系</a> ）</p>
+<p style="margin-left:5%;margin-top:10px;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px" title="施設経営者向け" alt=""><a href="https://www.mhlw.go.jp/content/000847572.pdf" target="_blank" title="今後の新型コロナウイルス感染症の感染拡大に備えた高齢者施設等における対応について">今後の新型コロナウイルス感染症の感染拡大に備えた高齢者施設等における対応について</a></p>
+<p style="margin-left:5%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.mhlw.go.jp/content/000858423.pdf" target="_blank" title="社会福祉施設等における面会等の実施にあたっての留意点について">社会福祉施設等における面会等の実施にあたっての留意点について</a>　(<a href="https://www.mhlw.go.jp/content/000858425.pdf" target="_blank" title="参考">参考</a>)</p>
+<p class="p2"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.wam.go.jp/gyoseiShiryou-files/documents/2021/051909192914/ksvol.978.pdf" target="_blank" title="高齢者施設等において新型コロナウイルス感染症の感染者が発生した場合等に活用することができる制度等について　（ 介護保険最新情報 Vol.978 ）">高齢者施設等において新型コロナウイルス感染症の感染者が発生した場合等に活用することができる制度等について</a>（ 介護保険最新情報 Vol.978 ）</p>
+<p style="margin-left:5%;margin-top:5px">
+<img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">「<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/douga_00006.html" target="_blank" title="【動画】介護職員にもわかりやすい感染対策の動画まとめページ">【動画】介護職員にもわかりやすい感染対策の動画まとめページ</a>」</p>
+<p style="font-size: 80%;margin-left: 20%;margin-right: 2%;">訪問介護職員や特別養護老人ホームの職員、訪問サービス利用者向けに、新型コロナウイルス感染症の対策を分かりやすくまとめた動画が、厚生労働省のYouTubeに公表されています。</p>
+<hr class="line20">
+<p style="margin-top:40px;"><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00097.html" target="_blank" title="障害福祉サービス事業所向け情報">障害福祉サービス事業所向け情報</a></p>
+<p style="margin-left:5%;margin-top:5px;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px" title="施設経営者向け" alt=""><a href="https://www.mhlw.go.jp/content/000847504.pdf" target="_blank" title="今後の新型コロナウイルス感染症の感染拡大に備えた障害者支援施設等における対応について">今後の新型コロナウイルス感染症の感染拡大に備えた障害者支援施設等における対応について</a></p>
+<p style="margin-left:5%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.mhlw.go.jp/content/000858423.pdf" target="_blank" title="社会福祉施設等における面会等の実施にあたっての留意点について">社会福祉施設等における面会等の実施にあたっての留意点について</a>　(<a href="https://www.mhlw.go.jp/content/000858425.pdf" target="_blank" title="参考">参考</a>)</p>
+<p style="margin-left:5%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/content/000728951.pdf" title="障害児者に係る医療提供体制の整備について" target="_blank">障害児者に係る医療提供体制の整備について</a></p>
+<hr class="line21">
+<p style="margin-top:40px;"><a href="https://www.mhlw.go.jp/stf/newpage_09762.html" target="_blank" title="保育所向け情報">保育所向け情報</a></p>
+<p style="margin-left:5%;margin-top:5px;" id="010"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">「<a href="https://www.mhlw.go.jp/stf/newpage_09762.html" target="_blank" title="保育所等における新型コロナウイルス対応関連情報">保育所等における新型コロナウイルス対応関連情報</a>」</p>
+<hr class="line22">
+<p class="p5"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00110.html" target="_blank" title="社会福祉・雇用・労働に関する情報一覧（新型コロナウイルス感染症）">社会福祉・雇用・労働に関する情報一覧（新型コロナウイルス感染症）</a></p>
+</div>
+<p style="margin-left: 30px;margin-top:40px;">クラスターの発生・対策事例関連情報</p>
+<p style="margin-top:5px;margin-left: 7%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.youtube.com/watch?v=q5LmJNx0hn4" target="_blank" title="ウェブセミナー「高齢者施設等における感染やクラスター発生時の対応」">ウェブセミナー「高齢者施設等における感染やクラスター発生時の対応」</a><span style="font-size:80%;">（YouTube）</span></p>
+<p style="margin-left: 10%;font-size:80%;">（「<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00252.html" target="_blank" title="令和3年3月18日開催ウェブセミナー「高齢者施設等における感染やクラスター発生時の対応」">令和3年3月18日開催ウェブセミナー「高齢者施設等における感染やクラスター発生時の対応」</a>」より）</p>
+<p style="margin-top:5px;margin-left: 7%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.wam.go.jp/gyoseiShiryou-files/documents/2021/0309125808656/ksvol.928.pdf" target="_blank" title="介護施設・事業所等における新型コロナウイルス感染症対応等に係る事例の共有について">介護施設・事業所等における新型コロナウイルス感染症対応等に係る事例の共有について</a></p>
+<p style="margin-left: 10%;font-size:80%;">（介護保険最新情報 Vol.928）</p>
+<p style="margin-left: 7%;margin-top:20px;">【参考】</p>
+<div class="line49">
+<hr class="line50">
+<p class="p8">&#9654; 地方自治体（都道府県・政令市）</p>
+<p style="margin-top:40px;margin-left: 3%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.pref.gunma.jp/02/d23g_00298.html" target="_blank" title="住宅型有料老人ホームにおける新型コロナウイルス感染症集団発生の検証について">住宅型有料老人ホームにおける新型コロナウイルス感染症集団発生の検証について</a><span style="font-size:80%;">（群馬県）</span></p>
+<p style="margin-left: 3%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.pref.saitama.lg.jp/a0603/corona_onlinekensyu.html" target="_blank" title="オンライン研修「事例から学ぶコロナ対策」">オンライン研修「事例から学ぶコロナ対策」</a><span style="font-size:80%;">（埼玉県）</span></p>
+<p style="margin-left: 3%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.youtube.com/watch?v=PpRD9thxXIo" target="_blank" title="令和３年度感染症研修③「コロナクラスター発生の経緯と対応・対策」">令和３年度感染症研修③「コロナクラスター発生の経緯と対応・対策」</a><span style="font-size:80%;">（YouTube｜東京都）</span></p>
+<p style="margin-left: 3%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">特養における新型コロナウイルスクラスター対応事例（<a href="https://www.youtube.com/watch?v=3Sj0Dp1jBaM&amp;ab_channel=%E3%81%8B%E3%81%AA%E3%83%81%E3%83%A3%E3%83%B3TV%EF%BC%88%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%85%AC%E5%BC%8F%EF%BC%89" target="_blank" title="前編">前編</a>｜<a href="https://www.youtube.com/watch?v=k1m4qZB_cqo&amp;ab_channel=%E3%81%8B%E3%81%AA%E3%83%81%E3%83%A3%E3%83%B3TV%EF%BC%88%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%85%AC%E5%BC%8F%EF%BC%89" target="_blank" title="後編">後編</a>）<span style="font-size:80%;">（Youtube｜神奈川県）</span></p>
+<p style="margin-left: 6%;font-size:80%;">（「<a href="https://www.pref.kanagawa.jp/docs/u6s/covid19/jinsoku.html" target="_blank" title="高齢者福祉施設における新型コロナウイルス迅速検査の研修動画">高齢者福祉施設における新型コロナウイルス迅速検査の研修動画</a>」（神奈川県）より）</p>
+<p style="margin-left: 3%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">介護老人保健施設における新型コロナウイルス感染症集団発生に係る検証報告書<span style="font-size:80%">（<a href="https://www.city.sapporo.jp/kikikanri/documents/akashia_kensyo_gaiyo.pdf" target="_blank" title="概要版">概要版</a>）</span></p>
+<p style="margin-left: 6%;font-size:80%;">（<a href="https://www.city.sapporo.jp/gikai/html/internet.html" target="_blank" title="「新型コロナウイルス感染症対策調査特別委員会（2021年10月7日）資料">「新型コロナウイルス感染症対策調査特別委員会（2021年10月7日）資料</a>」（札幌市）より</p>
+<hr class="line51">
+<p class="p9">&#9654; 国立感染症研究所 感染症疫学センター</p>
+</div>
+<p class="p10"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.mhlw.go.jp/content/10900000/000654503.pdf" target="_blank" title="クラスター事例集">クラスター事例集</a></p>
+
+
+
+<p style="margin-left :30px;margin-top :70px;">介護保険サービス従事者向けの感染対策に関する研修・教材配信サイト</p>
+<p style="font-size:88%;margin-left: 30px;margin-top: 5px;margin-right: 30px;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;float:left;margin-top:10px;margin-right:20px" title="施設経営者向け" alt="">
+<p>厚生労働省において、介護保険サービスに従事する職員がサービスを提供する際に留意すべき感染防止策について、研修プログラム・教材を作成され、公開されています。（利用には登録が必要です）</p>
+<table style="border:none;margin-left: 30px;margin-right: 30px;margin-top: 20px;">
+<tr>
+<td style="border:none;vertical-align: top;width:40%;">
+<a href="https://ccampus.org/" target="_blank" title="介護施設・ 事業所の職員向け感染症対応力向上のための研修教材配信サイ ト【職員向け】"><div style="background:#ededed;width: 90%;margin-left: 10px;padding-top: 15px;padding-bottom: 15px;" class="divlink">
+<p style="width: 63%;margin-left: 20px;">介護施設・ 事業所の職員向け感染症対応力向上のための研修教材配信サイ ト</p><p style="margin-top:5px;margin-left: 20px;">【職員向け】</p>
+<img alt="バーコード" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/6/cov1.png?MOD=AJPERES" title="" style="width: 22%;float: right;margin-top: -63px;margin-right: 10px;" />
+<img alt="リンクアイコン" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/7/cov3.png?MOD=AJPERES" title="" style="float: right;margin-top: -103px;margin-right: -70px;width: 7%;" />
+</div></a>
+</td>
+<td style="border:none;vertical-align: top;width:30%;">
+<a href="https://www.jmar-form.jp/idcm/ccam-userman.pdf" target="_blank" title="マニュアル"><div style="background:#ededed;width: 90%;padding: 15px 0px;" class="divlink">
+<p style="margin-left: 20px;">マニュアル</p>
+<img alt="リンクアイコン" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/8/cov3.png?MOD=AJPERES" title="" style="float: right;margin-top: -22px;margin-right: 10px;width: 9%;" />
+</div></a>
+<a href="https://www.jmar-form.jp/entry/idcsreg.php" target="_blank" title="アカウント登録はこちら"><div style="background:#ededed;width: 90%;padding: 15px 0px;margin-top:20px;" class="divlink">
+<p style="margin-left: 20px;">アカウント登録はこちら</p>
+<img alt="リンクアイコン" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/9/cov3.png?MOD=AJPERES" title="" style="float: right;margin-top: -22px;margin-right: 10px;width: 9%;" />
+</div></a>
+</td>
+<td style="font-size:88%;border:none;vertical-align: top;"><p style="margin-top: 5px;">教材の内容：</p>
+<p style="margin-top: 8px;width: 90%;line-height: 1.4;">「生活を支えるための感染対策」、「標準予防策と感染経路別予防策」、「感染拡大防止のための職員の健康管理」など</p>
+</td>
+</tr>
+<tr>
+<td style="border:none;vertical-align: top;padding-top: 30px;">
+<a href="https://ccampus.org/" target="_blank" title="感染症対策力向上のための研修教材配信サイト【管理者・感染対策教育担当者向け】"><div style="background:#deebf7;width: 90%;margin-left: 10px;padding-top: 15px;padding-bottom: 15px;" class="divlink">
+<p style="width: 63%;margin-left: 20px;">感染症対策力向上のための研修教材配信サイト</p><p style="margin-top:5px;width:63%;margin-left: 20px;">【管理者・感染対策教育担当者向け】</p>
+<img alt="バーコード" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/10/cov2.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/10-ouf5ZRm" title="" style="width: 22%;float: right;margin-top: -63px;margin-right: 10px;" />
+<img alt="リンクアイコン" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/11/cov3.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/11-ouf5ZRm" title="" style="float: right;margin-top: -103px;margin-right: -70px;width: 7%;" />
+</td>
+<td style="border:none;vertical-align: top;padding-top: 30px;">
+<a href="https://www.jmar-form.jp/idcm/ccam-mngman.pdf" target="_blank" title="マニュアル"><div style="background:#deebf7;width: 90%;padding: 15px 0px;" class="divlink">
+<p style="margin-left: 20px;">マニュアル</p>
+<img alt="リンクアイコン" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/12/cov3.png?MOD=AJPERES" title="" style="float: right;margin-top: -22px;margin-right: 10px;width: 9%;" />
+</div></a>
+<a href="https://www.jmar-form.jp/entry/idcmreg.php" target="_blank" title="アカウント登録はこちら"><div style="background:#deebf7;width: 90%;padding: 15px 0px;margin-top:20px;" class="divlink">
+<p style="margin-left: 20px;">アカウント登録はこちら</p>
+<img alt="リンクアイコン" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/13/cov3.png?MOD=AJPERES" title="" style="float: right;margin-top: -22px;margin-right: 10px;width: 9%;" />
+</div></a>
+</td>
+<td style="font-size:88%;border:none;vertical-align: top;padding-top: 30px;"><p style="margin-top:5px;">教材の内容：</p>
+<p style="margin-top: 8px;width: 90%;line-height: 1.4;">上記の内容に加えて、「感染対策マニュアルの見直しによる感染管理体制の改善」、「感染予防に取り組む職員のメンタルヘルス」など</p>
+</td>
+</tr>
+</table>
+<p style="font-size:60%;margin-top: 20px;margin-left: 65px;">※ 参考資料：「<a href="https://www.wam.go.jp/gyoseiShiryou-files/documents/2021/0421103907412/ksvol.967.pdf" title="介護保険最新情報 vol.897" target="_blank">介護保険最新情報 vol.967</a>」、「<a href="https://www.wam.go.jp/gyoseiShiryou-files/documents/2020/1215103510257/ksvol.897.pdf" title="介護保険最新情報 vol.897" target="_blank">介護保険最新情報 vol.897</a>」、「<a href="https://www.wam.go.jp/gyoseiShiryou-files/documents/2020/1203092847105/ksvol.891.pdf" title="介護保険最新情報 vol.891" target="_blank">介護保険最新情報 vol.891</a>」、「<a href="https://www.wam.go.jp/gyoseiShiryou-files/documents/2020/1110091401734/ksvol.888.pdf" title="介護保険最新情報 vol.888" target="_blank">介護保険最新情報 vol.888</a>」</p>
+
+<p style="margin-left :30px;margin-top :40px;">新型コロナウイルス感染症対応従事者等慰労金</p>
+<p style="margin-left: 30px;margin-top:8px"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">【医療分】… <a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000098580_00001.html" target="_blank" title="「新型コロナウイルス感染症対応従事者慰労金交付事業」について" style="font-size :88%;">「新型コロナウイルス感染症対応従事者慰労金交付事業」について</a></p>
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/14/covid19_border1.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/14-ouf5ZRm" alt="関係線画像" title="関係線画像" style="float: left;margin-left:90px;margin-right: 4px;" />
+<p><a href="https://www.mhlw.go.jp/content/10800000/000640500.pdf" target="_blank" title="事業の概要（PDF：520KB）" style="font-size :88%;">事業の概要（PDF：520KB）</a></p>
+<p><a href="https://www.mhlw.go.jp/content/10800000/000655159.pdf" target="_blank" title="パンフレット" style="font-size :88%;" style="font-size :88%;">パンフレット（PDF：415KB）</a></p>
+<p style="margin-left: 30px;margin-top:8px"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">【介護分】… <a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00144.html" target="_blank" title="「介護サービス事業所・施設等における感染症対策支援事業等及び職員に対する慰労金の支給事業」について" style="font-size :88%;">「介護サービス事業所・施設等における感染症対策支援事業等及び職員に対する慰労金の支給事業」について</a></p>
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/15/covid19_border1.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/15-ouf5ZRm" alt="関係線画像" title="関係線画像" style="float: left;margin-left:90px;margin-right: 4px;" />
+<p><a href="https://www.mhlw.go.jp/content/000641921.pdf" target="_blank" title="事業の概要（PDF：72KB）" style="font-size :88%;">事業の概要（PDF：72KB）</a></p>
+<p><a href="https://www.mhlw.go.jp/content/000652458.pdf" target="_blank" title="パンフレット" style="font-size :88%;">パンフレット（PDF：1.7MB）</a></p>
+<p style="margin-left: 30px;margin-top:8px"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">【障害福祉分】… <a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00148.html" target="_blank" title="障害福祉サービス施設・事業所等に勤務する職員に対する慰労金の支給と新型コロナウイルス感染症対策の徹底支援" style="font-size :88%;letter-spacing: -1px;">障害福祉サービス施設・事業所等に勤務する職員に対する慰労金の支給と新型コロナウイルス感染症対策の徹底支援</a></p>
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/16/covid19_border1.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/16-ouf5ZRm" alt="関係線画像" title="関係線画像" style="float: left;margin-left:90px;margin-right: 4px;" />
+<p><a href="https://www.mhlw.go.jp/content/000644197.pdf" target="_blank" title="事業の概要" style="font-size :88%;">事業の概要（PDF：1MB）</a></p>
+<p><a href="https://www.mhlw.go.jp/content/000649303.pdf" target="_blank" title="パンフレット" style="font-size :88%;">パンフレット（PDF：890KB）</a></p>
+<p style="margin-left :90px;margin-top :8px;font-size :88%;color :green;">※ 申請方法や支給対象者の要件等の詳細につきましては、各都道府県のホームページをご確認ください。</p>
+
+<p style="margin-left: 30px;margin-top:40px"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt="">「<a href="https://corona-support.mhlw.go.jp/" target="_blank" title="厚生労働省生活支援特設ホームページ">厚生労働省生活支援特設ホームページ</a>」</p>
+<p style="font-size: 90%;margin-left: 90px;margin-right: 40px;">新型コロナウイルス感染症の影響で収入が減少し生活に困窮する方に向けて「<a href="https://corona-support.mhlw.go.jp/seikatsufukushi/index.html" title="生活福祉資金の特例貸付" target="_blank">生活福祉資金の特例貸付</a>」、「<a href="https://corona-support.mhlw.go.jp/jukyokakuhokyufukin/index.html" title="住居確保給付金" target="_blank">住居確保給付金</a>」が案内されています。</p>
+<p style="margin-left:30px;margin-top:40px">
+<img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">「<a href="https://covid19.mhlw.go.jp/" target="_blank" title="データからわかる－新型コロナウイルス感染症情報－">データからわかる－新型コロナウイルス感染症情報－</a>」</p>
+<p style="font-size: 90%;margin-left: 90px;margin-right: 40px;">これまでに発信・蓄積されてきたデータが、よりわかりやすく可視化された新ページです。</p>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;" id="200">〇 東京都 － <span style="font-weight:bold;font-size:85%"><a href="https://www.fukushihoken.metro.tokyo.lg.jp/" title="東京都福祉保健局" target="_blank">東京都福祉保健局</a></span></p>
+<p style="margin-left:30px"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt=""><a href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/corona_portal/shien/zitakuryouyouhandbook.html" target="_blank" title="新自宅療養者向けハンドブック ～感染を広げないために～">自宅療養者向けハンドブック ～感染を広げないために～</a></p>
+<!-- <p style="font-size:90%;margin-left:60px"><a href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/corona_portal/shien/zitakuryouyouhandbook.files/zitakuryouyouhandbook02.pdf" target="_blank" title="新型コロナウイルス感染症　自宅療養者向けハンドブック（第2版）（PDF：2,002KB）">新型コロナウイルス感染症　自宅療養者向けハンドブック（第2版）（PDF：2,002KB）</a></p> -->
+<!-- <img alt="マーク" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/17/mark.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/17-ouf5ZRm" title="" style="float: right;width: 90px;margin-right: 190px;margin-top: -50px;margin-bottom: -5px;" /> -->
+<p style="margin-left:30px;margin-top:10px;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">「<a href="https://www.fukushihoken.metro.tokyo.lg.jp/kourei/shisetu/covid19douga.html" target="_blank" title="【動画・教材】高齢者施設における新型コロナウイルス感染症予防">【動画・教材】高齢者施設における新型コロナウイルス感染症予防</a>」</p>
+<p style="font-size:80%;margin-left:85px;width:500px;text-indent: -15px;">※ 東京都福祉保健局が、高齢者施設における感染予防を支援するため、新型コロナウイルス感染症対策に役立つ動画を公開しています。</p>
+<div id="exam_covid"></div>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;" id="001">〇 国家試験におけるコロナ対策について－ <span style="font-size:80%">厚生労働省</span></p>
+<p style="color:red;font-size:90%;margin-left: 6%;margin-right: 10%;text-indent: -1em;margin-top: 10px;margin-bottom: 10px;">※ 国家試験の受験者及び関係者の皆様へ、厚生労働省より国家試験に係る新型コロナウイルス感染症対策についてのお知らせがあります。</p>
+<p style="margin-left:30px"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt="">【医療関係】・・・<span style="font-size:80%:">（参考）</span><a href="https://www.mhlw.go.jp/stf/newpage_15202.html" target="_blank" title="厚生労働省所管医療関係職種国家試験における新型コロナウイルス感染症対策について" style="font-size:80%;">厚生労働省所管医療関係職種国家試験における新型コロナウイルス感染症対策について</a></p>
+<p style="font-size:80%;margin-top: 10px;margin-left: 9%;text-indent: -1em;margin-right: 15%;">※医師国家試験、歯科医師国家試験、保健師国家試験、助産師国家試験、看護師国家試験、診療放射線技師国家試験、臨床検査技師国家試験、理学療法士国家試験、作業療法士国家試験、視能訓練士国家試験、臨床工学技士国家試験、義肢装具士国家試験、歯科衛生士国家試験、歯科技工士国家試験、救急救命士国家試験、あん摩マッサージ指圧師国家試験、はり師国家試験、きゅう師国家試験、柔道整復師国家試験、言語聴覚士国家試験、薬剤師国家試験、管理栄養士国家試験</p>
+<p style="margin-left:30px;margin-top:10px;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt="">【福祉・介護関係】・・・<a href="https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html#04" target="_blank" title="資格・試験情報（福祉・介護関係）" style="font-size:80%;">資格・試験情報（福祉・介護関係）</a></p>
+<p style="font-size:80%;margin-top: 10px;margin-left: 9%;text-indent: -1em;margin-right: 15%;">※保育士試験、社会福祉士国家試験、介護福祉士国家試験、精神保健福祉士国家試験、手話通訳技能認定試験（手話通訳士試験）、公認心理師試験</p>
+<!--<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/18/new.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/18-ouf5ZRm" alt="new" title="" style="vertical-align: middle;width: 25px;margin-right: -5px;margin-left: 1%;float:left;margin-top: 25px;" />
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;" id="001b">〇 社会福祉振興・試験センター － <span style="font-size:80%;color :red">重要なお知らせ【試験】</span></p>
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/19/ptcovid_exam.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/19-ouf5ZRm" alt="" title="" align="right" style="width :20%;margin-right :3%" />
+<p style="margin-left:30px"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt=""></span><a href="http://www.sssc.or.jp/" target="_blank" title="「社会福祉士・介護福祉士・精神保健福祉士国家試験におけるまん延防止等重点措置にかかる対応について」" style="font-size:80%;">「社会福祉士・介護福祉士・精神保健福祉士国家試験におけるまん延防止等重点措置にかかる対応について」</a></p>
+<p style="font-size:80%;margin-top: 10px;margin-left: 9%;text-indent: -1em;margin-right: 15%;">※まん延防止等重点措置等が適用されている場合であっても、社会福祉士・介護福祉士・精神保健福祉士国家試験については<span style="color :red">予定通り実施します。</span>詳細は「社会福祉振興・試験センター」のお知らせをご確認ください。</p>
+-->
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;" id="001c">〇 専門職向け相談窓口</p>
+<!--
+<p style="margin-left: 30px;margin-top:5px"><img src="/content/img/covid19/covid19_icon01202.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="医療関係者向け" alt="医療関係者向け">「<a href="https://www.jcma.or.jp" target="_blank" title="介護事業所等の感染防止対策のための相談・支援チャットボット">介護事業所等の感染防止対策のための相談・支援チャットボット</a>」</p>
+<p style="font-size:80%;margin-left: 85px;width:500px;text-indent: -15px;">（一般社団法人 日本介護支援専門員協会）・・・厚生労働省 補助対象事業</p>
+<p style="font-size:80%;margin-left: 75px;width:500px;text-indent: -15px;margin-top: 5px;">※介護保険サービス等に従事する看護職・介護職の皆様に向けた、新型コロナウイルス感染症対策等の相談・質問について対応するチャットボットサービスです。</p>-->
+<p style="margin-left: 30px;margin-top:5px" class="ng-scope"><img src="/content/img/covid19/covid19_icon01202.png" style="width: 2%;vertical-align: middle;margin: -3px 8px 0px 3px;" title="医療関係者向け" alt="医療関係者向け"><a href="https://kokoro.mhlw.go.jp/agency/" title="こころの耳：働く人のメンタルヘルス・ポータルサイト ＞ 相談窓口案内（厚生労働省）" target="_blank">こころの耳：働く人のメンタルヘルス・ポータルサイト ＞ 相談窓口案内（厚生労働省）</a></p>
+<p style="font-size:80%;margin-left: 75px;text-indent: -15px;margin-top: 5px;" class="ng-scope">※ 働く人の相談窓口について、働く人のメンタルヘルス・ポータルサイト「こころの耳」で紹介されています。</p>
+</md-tab-body>
+</md-tab>
+<md-tab>
+<md-tab-label><img src="/content/img/covid19/covid19_icon01201.png" style="width: 11%;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><span style="color:#FB6444;">一般の方向け</span></md-tab-label>
+<md-tab-body>
+<p style="font-weight: bold;font-size: 120%;margin-top: 35px;margin-left: 20px;height: 29px;">〇 厚生労働省ホームページ</p>
+<p style="margin-left: 30px;">「<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html" target="_blank" title="新型コロナウイルス感染症について">新型コロナウイルス感染症について</a>」</p>
+<div class="line40">
+<p style="margin-top: 25px;margin-left: 2%;margin-bottom: 10px;">この中に、下のようなリンクページが含まれています。</p>
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/20/konew.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/20-ouf5ZRm" alt="new" title="" style="vertical-align: middle;width: 50px;margin-right: -5px;margin-left: 2%;float:left;margin-top:2px;" /><p style="margin-left: 8%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向けを表示" alt="一般の方向け"><a href="https://www.mhlw.go.jp/content/000927280.pdf" target="_blank" title="新型コロナウイルス感染症の&ldquo;いま&rdquo;についての11の知識">新型コロナウイルス感染症の“いま”についての11の知識</a></p>
+<p style="margin-left: 8%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt=""><a href="https://www.wam.go.jp/gyoseiShiryou/detail?gno=6938&amp;ct=030100240" target="_blank" title="新型コロナウイルス感染症の現在の状況について">新型コロナウイルス感染症の現在の状況について</a></p>
+<p style="margin-left: 8%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html" target="_blank" title="新型コロナウイルスに関するQ&amp;A(一般の方向け)">新型コロナウイルスに関するQ&A(一般の方向け)</a></p>
+<p style="margin-left: 8%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/covid19-kikokusyasessyokusya.html" target="_blank" title="新型コロナウイルスに関する都道府県の相談窓口等の情報">新型コロナウイルスに関する都道府県の相談窓口等の情報</a></p>
+<!-- add 2022/11/11 -->
+<p style="margin-left: 8%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt=""><a href="https://www.wam.go.jp/gyoseiShiryou/detail-list?bun=030100655" target="_blank" title="新型コロナウイルス感染症対策アドバイザリーボードへのリンク">新型コロナウイルス感染症対策アドバイザリーボード【行政情報＞医療】</a></p>
+<hr class="line2">
+<p class="p3"><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_00184.html" title="新型コロナワクチンについて" target="_blank">新型コロナワクチンについて</a></p>
+<hr class="line27">
+<hr class="line4">
+<div class="line42">
+<p style="margin-top: -20px;margin-left: 2%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_yuukousei_anzensei.html" title="新型コロナワクチンの有効性・安全性について" target="_blank">新型コロナワクチンの有効性・安全性について</a></p>
+<p style="margin-left:2%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_hukuhannou-utagai-houkoku.html" title="新型コロナワクチンの副反応疑い報告について" target="_blank">新型コロナワクチンの副反応疑い報告について</a></p>
+<p style="margin-left:2%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00218.html" title="接種についてのお知らせ" target="_blank">接種についてのお知らせ</a></p>
+<p style="margin-left:2%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://v-sys.mhlw.go.jp/" title="コロナワクチンナビ" target="_blank">コロナワクチンナビ</a></p>
+<p style="margin-left:2%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_sesshujisseki.html" title="新型コロナワクチンの接種実績" target="_blank">新型コロナワクチンの接種実績</a></p>
+<p style="margin-left:2%;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_shokuiki.html" title="職域接種に関するお知らせ" target="_blank">職域接種に関するお知らせ</a></p>
+<hr class="line6">
+<p style="margin-left: 1%;float: left;margin-bottom: -15px;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_notifications.html" title="新型コロナワクチンに関する自治体向け通知・事務連絡等" target="_blank">新型コロナワクチンに関する自治体向け通知・事務連絡等</a></p>
+</div>
+<hr class="line25">
+<hr class="line26">
+<p style="margin-left:15%;margin-top:15px;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/content/000786973.pdf" title="「新型コロナワクチンの職域接種の開始について」（事務連絡）" target="_blank">「新型コロナワクチンの職域接種の開始について」（事務連絡）</a></p>
+<hr class="line12">
+<hr class="line28">
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/21/konew.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/21-ouf5ZRm" alt="new" title="" style="vertical-align: middle;width: 50px;margin-right: -5px;margin-left: -4%;float:left;margin-top:42px;" />
+<p style="margin-top:40px;float:left;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.cov19-vaccine.mhlw.go.jp/qa/" title="新型コロナワクチンQ＆A" target="_blank">新型コロナワクチンQ＆A</a></p>
+</div>
+
+
+<p style="margin-left: 30px;margin-top:40px"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt="">「<a href="https://corona-support.mhlw.go.jp/" target="_blank" title="厚生労働省生活支援特設ホームページ">厚生労働省生活支援特設ホームページ</a>」</p>
+<p style="font-size: 90%;margin-left: 90px;margin-right: 40px;">新型コロナウイルス感染症の影響で収入が減少し生活に困窮する方に向けて「<a href="https://corona-support.mhlw.go.jp/seikatsufukushi/index.html" title="生活福祉資金の特例貸付" target="_blank">生活福祉資金の特例貸付</a>」、「<a href="https://corona-support.mhlw.go.jp/jukyokakuhokyufukin/index.html" title="住居確保給付金" target="_blank">住居確保給付金</a>」が案内されています。</p>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;" id="200a">〇 東京都 － <span style="font-weight:bold;font-size:85%"><a href="https://www.fukushihoken.metro.tokyo.lg.jp/" title="東京都福祉保健局" target="_blank">東京都福祉保健局</a></span></p>
+<p style="margin-left:30px"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt=""><a href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/corona_portal/shien/zitakuryouyouhandbook.html" target="_blank" title="新自宅療養者向けハンドブック ～感染を広げないために～">自宅療養者向けハンドブック ～感染を広げないために～</a></p>
+<!-- <p style="font-size:90%;margin-left:60px"><a href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/corona_portal/shien/zitakuryouyouhandbook.files/zitakuryouyouhandbook02.pdf" target="_blank" title="新型コロナウイルス感染症　自宅療養者向けハンドブック（第2版）（PDF：2,002KB）">新型コロナウイルス感染症　自宅療養者向けハンドブック（第2版）（PDF：2,002KB）</a></p> -->
+<!-- <img alt="マーク" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/22/mark.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/22-ouf5ZRm" title="" style="float: right;width: 90px;margin-right: 190px;margin-top: -50px;margin-bottom: -5px;" /> -->
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/23/new.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-053c6fbc-1456-47e4-9ec6-acd6db299634/23-ouf5ZRm" alt="new" title="" style="vertical-align: middle;width: 25px;margin-right: -5px;margin-left: 1%;float:left;margin-top: 25px;" />
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;" id="001f">〇 国家試験におけるコロナ対策について－ <span style="font-size:80%">厚生労働省</span></p>
+<p style="color:red;font-size:90%;margin-left: 6%;margin-right: 10%;text-indent: -1em;margin-top: 10px;margin-bottom: 10px;">※ 国家試験の受験者及び関係者の皆様へ、厚生労働省より国家試験に係る新型コロナウイルス感染症対策についてのお知らせがあります。</p>
+<p style="margin-left:30px"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt="">【医療関係】・・・<span style="font-size:80%:">（参考）</span><a href="https://www.mhlw.go.jp/stf/newpage_15202.html" target="_blank" title="厚生労働省所管医療関係職種国家試験における新型コロナウイルス感染症対策について" style="font-size:80%;">厚生労働省所管医療関係職種国家試験における新型コロナウイルス感染症対策について</a></p>
+<p style="font-size:80%;margin-top: 10px;margin-left: 9%;text-indent: -1em;margin-right: 15%;">※医師国家試験、歯科医師国家試験、保健師国家試験、助産師国家試験、看護師国家試験、診療放射線技師国家試験、臨床検査技師国家試験、理学療法士国家試験、作業療法士国家試験、視能訓練士国家試験、臨床工学技士国家試験、義肢装具士国家試験、歯科衛生士国家試験、歯科技工士国家試験、救急救命士国家試験、あん摩マッサージ指圧師国家試験、はり師国家試験、きゅう師国家試験、柔道整復師国家試験、言語聴覚士国家試験、薬剤師国家試験、管理栄養士国家試験</p>
+<p style="margin-left:30px;margin-top:10px;"><img src="/content/img/covid19/covid19_icon01201.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt="">【福祉・介護関係】・・・<a href="https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html#04" target="_blank" title="資格・試験情報（福祉・介護関係）" style="font-size:80%;">資格・試験情報（福祉・介護関係）</a></p>
+<p style="font-size:80%;margin-top: 10px;margin-left: 9%;text-indent: -1em;margin-right: 15%;">※保育士試験、社会福祉士国家試験、介護福祉士国家試験、精神保健福祉士国家試験、手話通訳技能認定試験（手話通訳士試験）、公認心理師試験</p>
+</md-tab-body>
+</md-tab>
+<md-tab>
+<md-tab-label><img src="/content/img/covid19/02.png" style="width: 9%;vertical-align: middle;margin: -3px 8px 0px 0px;" title="施設経営者向け" alt=""><span style="color:#00DE95">施設経営者向け（福祉・医療）</span></md-tab-label>
+<md-tab-body>
+<p style="font-weight: bold;font-size: 120%;margin-top: 35px;margin-left: 20px;height: 29px;">〇 厚生労働省ホームページ</p>
+<p style="margin-left: 30px;">「<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html" target="_blank" title="新型コロナウイルス感染症について">新型コロナウイルス感染症について</a>」</p>
+<div class="line40">
+<p style="margin-top: 25px;margin-left: 2%;margin-bottom: 10px;">この中に、下のようなリンクページが含まれています。</p>
+<hr class="line29">
+<p><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_00184.html" title="新型コロナワクチンについて" target="_blank">新型コロナワクチンについて</a></p>
+<hr class="line30">
+<hr class="line31">
+<p style="text-indent: -35px;margin-left: 15%;margin-right: 2%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: 0px 15px 0px 0px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/content/000797190.pdf" title="新型コロナウイルス感染症に係るワクチンの迅速な接種のための体制確保に係る医療法上の臨時的な取扱いについて（その５）（厚生労働省医政局総務課、経営支援課通知）" target="_blank">新型コロナウイルス感染症に係るワクチンの迅速な接種のための体制確保に係る医療法上の臨時的な取扱いについて（その５）（厚生労働省医政局総務課、経営支援課通知）</a></p>
+<hr class="line13">
+<p style="margin-top:40px;"><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00332.html" target="_blank" title="医療機関等向け情報">医療機関等向け情報</a></p>
+<p style="margin-left:5%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="医療関係者向け" alt="医療関係者向け"><a href="https://www.mhlw.go.jp/content/000858255.pdf" target="_blank" title="医療施設等における感染拡大防止に留意した面会の事例について">医療施設等における感染拡大防止に留意した面会の事例について</a> (<a href="https://www.mhlw.go.jp/content/000858256.pdf" target="_blank" title="別添">別添</a>)</p>
+<p style="margin-left:5%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="医療関係者向け" alt="医療関係者向け"><a href="https://www.mhlw.go.jp/content/000701772.pdf" target="_blank" title="国民の健康と安心につなげるための医療機関等への更なる支援策">国民の健康と安心につなげるための医療機関等への更なる支援策</a> (<a href="https://www.mhlw.go.jp/content/000682403.pdf" target="_blank" title="パンフレット">パンフレット</a>)</p>
+<hr class="line14">
+<p style="margin-top: 40px;"><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00089.html" target="_blank" title="介護事業所等向け情報">介護事業所等向け情報</a></p>
+<p style="margin-left:5%;margin-top:5px;">
+<img src="/content/img/covid19/02.png" style="width: 2.2%;vertical-align: middle;margin: 0px 3px;" title="施設経営者向け" alt="">「<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/taisakumatome_13635.html" target="_blank" title="介護事業所等向けの新型コロナウイルス感染症対策等まとめページ">介護事業所等向けの新型コロナウイルス感染症対策等まとめページ</a>」</p>
+<hr class="line15">
+<hr class="line16">
+<hr class="line17">
+<hr class="line18">
+<p style="margin-left: 11%;"><a href="https://www.mhlw.go.jp/content/12300000/000757739.pdf" title="新型コロナウイルス感染症に対応する介護施設等の職員のためのサポートガイド" target="_blank">新型コロナウイルス感染症に対応する介護施設等の職員のためのサポートガイド</a></p>
+<p style="margin-left: 11%;"><a href="https://www.mhlw.go.jp/content/12300000/000814179.pdf" title="介護現場における感染対策の手引き" target="_blank">介護現場における感染対策の手引き</a></p>
+<hr class="line19">
+<p style="margin-left: 11%;">介護職員のための感染症対策マニュアル →（ <a href="https://www.mhlw.go.jp/content/12300000/000678255.pdf" target="_blank" title="施設系">施設系</a> ｜ <a href="https://www.mhlw.go.jp/content/12300000/000678256.pdf" target="_blank" title="通所系">通所系</a> ｜ <a href="https://www.mhlw.go.jp/content/12300000/000678257.pdf" target="_blank" title="訪問系">訪問系</a> ）</p>
+<p style="margin-left:5%;margin-top:10px;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px" title="施設経営者向け" alt=""><a href="https://www.mhlw.go.jp/content/000847572.pdf" target="_blank" title="今後の新型コロナウイルス感染症の感染拡大に備えた高齢者施設等における対応について">今後の新型コロナウイルス感染症の感染拡大に備えた高齢者施設等における対応について</a></p>
+<p style="margin-left:5%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.mhlw.go.jp/content/000858423.pdf" target="_blank" title="社会福祉施設等における面会等の実施にあたっての留意点について">社会福祉施設等における面会等の実施にあたっての留意点について</a>　(<a href="https://www.mhlw.go.jp/content/000858425.pdf" target="_blank" title="参考">参考</a>)</p>
+<p class="p2"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.wam.go.jp/gyoseiShiryou-files/documents/2021/051909192914/ksvol.978.pdf" target="_blank" title="高齢者施設等において新型コロナウイルス感染症の感染者が発生した場合等に
+活用することができる制度等について　（ 介護保険最新情報 Vol.978 ）">高齢者施設等において新型コロナウイルス感染症の感染者が発生した場合等に活用することができる制度等について</a>（ 介護保険最新情報 Vol.978 ）</p>
+<p style="margin-left:5%;margin-top:5px">
+<img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">「<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/douga_00006.html" target="_blank" title="【動画】介護職員にもわかりやすい感染対策の動画まとめページ">【動画】介護職員にもわかりやすい感染対策の動画まとめページ</a>」</p>
+<p style="font-size: 80%;margin-left: 20%;margin-right: 2%;">訪問介護職員や特別養護老人ホームの職員、訪問サービス利用者向けに、新型コロナウイルス感染症の対策を分かりやすくまとめた動画が、厚生労働省のYouTubeに公表されています。</p>
+<hr class="line20">
+<p style="margin-top:40px;"><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00097.html" target="_blank" title="障害福祉サービス事業所向け情報">障害福祉サービス事業所向け情報</a></p>
+<p style="margin-left:5%;margin-top:5px;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px" title="施設経営者向け" alt=""><a href="https://www.mhlw.go.jp/content/000847504.pdf" target="_blank" title="今後の新型コロナウイルス感染症の感染拡大に備えた障害者支援施設等における対応について">今後の新型コロナウイルス感染症の感染拡大に備えた障害者支援施設等における対応について</a></p>
+<p style="margin-left:5%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.mhlw.go.jp/content/000858423.pdf" target="_blank" title="社会福祉施設等における面会等の実施にあたっての留意点について">社会福祉施設等における面会等の実施にあたっての留意点について</a>　(<a href="https://www.mhlw.go.jp/content/000858425.pdf" target="_blank" title="参考">参考</a>)</p>
+<p style="margin-left:5%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="一般の方向け" alt=""><a href="https://www.mhlw.go.jp/content/000728951.pdf" title="障害児者に係る医療提供体制の整備について" target="_blank">障害児者に係る医療提供体制の整備について</a></p>
+<hr class="line21">
+<p style="margin-top:40px;"><a href="https://www.mhlw.go.jp/stf/newpage_09762.html" target="_blank" title="保育所向け情報">保育所向け情報</a></p>
+<p style="margin-left:5%;margin-top:5px;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">「<a href="https://www.mhlw.go.jp/stf/newpage_09762.html" target="_blank" title="保育所等における新型コロナウイルス対応関連情報">保育所等における新型コロナウイルス対応関連情報</a>」</p>
+<hr class="line38">
+<p class="p5"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00110.html" target="_blank" title="社会福祉・雇用・労働に関する情報一覧（新型コロナウイルス感染症）">社会福祉・雇用・労働に関する情報一覧（新型コロナウイルス感染症）</a></p>
+</div>
+<p style="margin-left: 30px;margin-top:40px;">クラスターの発生・対策事例関連情報</p>
+<p style="margin-top:5px;margin-left: 7%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.youtube.com/watch?v=q5LmJNx0hn4" target="_blank" title="ウェブセミナー「高齢者施設等における感染やクラスター発生時の対応」">ウェブセミナー「高齢者施設等における感染やクラスター発生時の対応」</a><span style="font-size:80%;">（YouTube）</span></p>
+<p style="margin-left: 10%;font-size:80%;">（「<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00252.html" target="_blank" title="令和3年3月18日開催ウェブセミナー「高齢者施設等における感染やクラスター発生時の対応」">令和3年3月18日開催ウェブセミナー「高齢者施設等における感染やクラスター発生時の対応」</a>」より）</p>
+<p style="margin-top:5px;margin-left: 7%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.wam.go.jp/gyoseiShiryou-files/documents/2021/0309125808656/ksvol.928.pdf" target="_blank" title="介護施設・事業所等における新型コロナウイルス感染症対応等に係る事例の共有について">介護施設・事業所等における新型コロナウイルス感染症対応等に係る事例の共有について</a></p>
+<p style="margin-left: 10%;font-size:80%;">（介護保険最新情報 Vol.928）</p>
+<p style="margin-left:7%;margin-top:20px;">【参考】</p>
+<div class="line49">
+<hr class="line50">
+<p class="p8">&#9654; 地方自治体（都道府県・政令市）</p>
+<p style="margin-top:40px;margin-left: 3%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.pref.gunma.jp/02/d23g_00298.html" target="_blank" title="住宅型有料老人ホームにおける新型コロナウイルス感染症集団発生の検証について">住宅型有料老人ホームにおける新型コロナウイルス感染症集団発生の検証について</a><span style="font-size:80%;">（群馬県）</span></p>
+<p style="margin-left: 3%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.pref.saitama.lg.jp/a0603/corona_onlinekensyu.html" target="_blank" title="オンライン研修「事例から学ぶコロナ対策」">オンライン研修「事例から学ぶコロナ対策」</a><span style="font-size:80%;">（埼玉県）</span></p>
+<p style="margin-left: 3%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.youtube.com/watch?v=PpRD9thxXIo" target="_blank" title="令和３年度感染症研修③「コロナクラスター発生の経緯と対応・対策」">令和３年度感染症研修③「コロナクラスター発生の経緯と対応・対策」</a><span style="font-size:80%;">（YouTube｜東京都）</span></p>
+<p style="margin-left: 3%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">特養における新型コロナウイルスクラスター対応事例（<a href="https://www.youtube.com/watch?v=3Sj0Dp1jBaM&amp;ab_channel=%E3%81%8B%E3%81%AA%E3%83%81%E3%83%A3%E3%83%B3TV%EF%BC%88%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%85%AC%E5%BC%8F%EF%BC%89" target="_blank" title="前編">前編</a>｜<a href="https://www.youtube.com/watch?v=k1m4qZB_cqo&amp;ab_channel=%E3%81%8B%E3%81%AA%E3%83%81%E3%83%A3%E3%83%B3TV%EF%BC%88%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%85%AC%E5%BC%8F%EF%BC%89" target="_blank" title="後編">後編</a>）<span style="font-size:80%;">（Youtube｜神奈川県）</span></p>
+<p style="margin-left: 6%;font-size:80%;">（「<a href="https://www.pref.kanagawa.jp/docs/u6s/covid19/jinsoku.html" target="_blank" title="高齢者福祉施設における新型コロナウイルス迅速検査の研修動画">高齢者福祉施設における新型コロナウイルス迅速検査の研修動画</a>」（神奈川県）より）</p>
+
+<p style="margin-left: 3%;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">介護老人保健施設における新型コロナウイルス感染症集団発生に係る検証報告書<span style="font-size:80%">（<a href="https://www.city.sapporo.jp/kikikanri/documents/akashia_kensyo_gaiyo.pdf" target="_blank" title="概要版">概要版</a>）</span></p>
+<p style="margin-left: 6%;font-size:80%;">（<a href="https://www.city.sapporo.jp/gikai/html/internet.html" target="_blank" title="「新型コロナウイルス感染症対策調査特別委員会（2021年10月7日）資料">「新型コロナウイルス感染症対策調査特別委員会（2021年10月7日）資料</a>」（札幌市）より</p>
+<hr class="line51">
+<p class="p9">&#9654; 国立感染症研究所 感染症疫学センター</p>
+</div>
+<p class="p10"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt=""><a href="https://www.mhlw.go.jp/content/10900000/000654503.pdf" target="_blank" title="クラスター事例集">クラスター事例集</a></p>
+<p style="margin-left :30px;margin-top :70px;">介護保険サービス従事者向けの感染対策に関する研修・教材配信サイト</p>
+<p style="font-size:88%;margin-left: 30px;margin-top: 5px;margin-right: 30px;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;float:left;margin-top:10px;margin-right:20px" title="施設経営者向け" alt="">
+<p>厚生労働省において、介護保険サービスに従事する職員がサービスを提供する際に留意すべき感染防止策について、研修プログラム・教材を作成され、公開されています。（利用には登録が必要です）</p>
+<table style="border:none;margin-left: 30px;margin-right: 30px;margin-top: 20px;">
+<tr>
+<td style="border:none;vertical-align: top;width:40%;">
+<a href="https://ccampus.org/" target="_blank" title="介護施設・ 事業所の職員向け感染症対応力向上のための研修教材配信サイ ト【職員向け】"><div style="background:#ededed;width: 90%;margin-left: 10px;padding-top: 15px;padding-bottom: 15px;" class="divlink">
+<p style="width: 63%;margin-left: 20px;">介護施設・ 事業所の職員向け感染症対応力向上のための研修教材配信サイ ト</p><p style="margin-top:5px;margin-left: 20px;">【職員向け】</p>
+<img alt="バーコード" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/24/cov1.png?MOD=AJPERES" title="" style="width: 22%;float: right;margin-top: -63px;margin-right: 10px;" />
+<img alt="リンクアイコン" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/25/cov3.png?MOD=AJPERES" title="" style="float: right;margin-top: -103px;margin-right: -70px;width: 7%;" />
+</div></a>
+</td>
+<td style="border:none;vertical-align: top;width:30%;">
+<a href="https://www.jmar-form.jp/idcm/ccam-userman.pdf" target="_blank" title="マニュアル"><div style="background:#ededed;width: 90%;padding: 15px 0px;" class="divlink">
+<p style="margin-left: 20px;">マニュアル</p>
+<img alt="リンクアイコン" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/26/cov3.png?MOD=AJPERES" title="" style="float: right;margin-top: -22px;margin-right: 10px;width: 9%;" />
+</div></a>
+<a href="https://www.jmar-form.jp/entry/idcsreg.php" target="_blank" title="アカウント登録はこちら"><div style="background:#ededed;width: 90%;padding: 15px 0px;margin-top:20px;" class="divlink">
+<p style="margin-left: 20px;">アカウント登録はこちら</p>
+<img alt="リンクアイコン" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/27/cov3.png?MOD=AJPERES" title="" style="float: right;margin-top: -22px;margin-right: 10px;width: 9%;" />
+</div></a>
+</td>
+<td style="font-size:88%;border:none;vertical-align: top;"><p style="margin-top: 5px;">教材の内容：</p>
+<p style="margin-top: 8px;width: 90%;line-height: 1.4;">「生活を支えるための感染対策」、「標準予防策と感染経路別予防策」、「感染拡大防止のための職員の健康管理」など</p>
+</td>
+</tr>
+<tr>
+<td style="border:none;vertical-align: top;padding-top: 30px;">
+<a href="https://ccampus.org/" target="_blank" title="感染症対策力向上のための研修教材配信サイト【管理者・感染対策教育担当者向け】"><div style="background:#deebf7;width: 90%;margin-left: 10px;padding-top: 15px;padding-bottom: 15px;" class="divlink">
+<p style="width: 63%;margin-left: 20px;">感染症対策力向上のための研修教材配信サイト</p><p style="margin-top:5px;width:63%;margin-left: 20px;">【管理者・感染対策教育担当者向け】</p>
+<img alt="バーコード" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/28/cov2.png?MOD=AJPERES" title="" style="width: 22%;float: right;margin-top: -63px;margin-right: 10px;" />
+<img alt="リンクアイコン" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/29/cov3.png?MOD=AJPERES" title="" style="float: right;margin-top: -103px;margin-right: -70px;width: 7%;" />
+</td>
+<td style="border:none;vertical-align: top;padding-top: 30px;">
+<a href="https://www.jmar-form.jp/idcm/ccam-mngman.pdf" target="_blank" title="マニュアル"><div style="background:#deebf7;width: 90%;padding: 15px 0px;" class="divlink">
+<p style="margin-left: 20px;">マニュアル</p>
+<img alt="リンクアイコン" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/30/cov3.png?MOD=AJPERES" title="" style="float: right;margin-top: -22px;margin-right: 10px;width: 9%;" />
+</div></a>
+<a href="https://www.jmar-form.jp/entry/idcmreg.php" target="_blank" title="アカウント登録はこちら"><div style="background:#deebf7;width: 90%;padding: 15px 0px;margin-top:20px;" class="divlink">
+<p style="margin-left: 20px;">アカウント登録はこちら</p>
+<img alt="リンクアイコン" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/31/cov3.png?MOD=AJPERES" title="" style="float: right;margin-top: -22px;margin-right: 10px;width: 9%;" />
+</div></a>
+</td>
+<td style="font-size:88%;border:none;vertical-align: top;padding-top: 30px;"><p style="margin-top:5px;">教材の内容：</p>
+<p style="margin-top: 8px;width: 90%;line-height: 1.4;">上記の内容に加えて、「感染対策マニュアルの見直しによる感染管理体制の改善」、「感染予防に取り組む職員のメンタルヘルス」など</p>
+</td>
+</tr>
+</table>
+<p style="font-size:60%;margin-top: 20px;margin-left: 65px;">※ 参考資料：「<a href="https://www.wam.go.jp/gyoseiShiryou-files/documents/2021/0421103907412/ksvol.967.pdf" title="介護保険最新情報 vol.897" target="_blank">介護保険最新情報 vol.967</a>」、「<a href="https://www.wam.go.jp/gyoseiShiryou-files/documents/2020/1215103510257/ksvol.897.pdf" title="介護保険最新情報 vol.897" target="_blank">介護保険最新情報 vol.897</a>」、「<a href="https://www.wam.go.jp/gyoseiShiryou-files/documents/2020/1203092847105/ksvol.891.pdf" title="介護保険最新情報 vol.891" target="_blank">介護保険最新情報 vol.891</a>」、「<a href="https://www.wam.go.jp/gyoseiShiryou-files/documents/2020/1110091401734/ksvol.888.pdf" title="介護保険最新情報 vol.888" target="_blank">介護保険最新情報 vol.888</a>」</p>
+
+<p style="margin-left :30px;margin-top :40px;">新型コロナウイルス感染症対応従事者等慰労金</p>
+<p style="margin-left: 30px;margin-top:8px"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">【医療分】… <a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000098580_00001.html" target="_blank" title="「新型コロナウイルス感染症対応従事者慰労金交付事業」について" style="font-size :88%;">「新型コロナウイルス感染症対応従事者慰労金交付事業」について</a></p>
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/32/covid19_border1.png?MOD=AJPERES" alt="関係線画像" title="関係線画像" style="float: left;margin-left:90px;margin-right: 4px;" />
+<p><a href="https://www.mhlw.go.jp/content/10800000/000640500.pdf" target="_blank" title="事業の概要（PDF：520KB）" style="font-size :88%;">事業の概要（PDF：520KB）</a></p>
+<p><a href="https://www.mhlw.go.jp/content/10800000/000655159.pdf" target="_blank" title="パンフレット" style="font-size :88%;" style="font-size :88%;">パンフレット（PDF：415KB）</a></p>
+
+<p style="margin-left: 30px;margin-top:8px"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">【介護分】… <a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00144.html" target="_blank" title="「介護サービス事業所・施設等における感染症対策支援事業等及び職員に対する慰労金の支給事業」について" style="font-size :88%;">「介護サービス事業所・施設等における感染症対策支援事業等及び職員に対する慰労金の支給事業」について</a></p>
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/33/covid19_border1.png?MOD=AJPERES" alt="関係線画像" title="関係線画像" style="float: left;margin-left:90px;margin-right: 4px;" />
+<p><a href="https://www.mhlw.go.jp/content/000641921.pdf" target="_blank" title="事業の概要（PDF：72KB）" style="font-size :88%;">事業の概要（PDF：72KB）</a></p>
+<p><a href="https://www.mhlw.go.jp/content/000652458.pdf" target="_blank" title="パンフレット" style="font-size :88%;">パンフレット（PDF：1.7MB）</a></p>
+
+<p style="margin-left: 30px;margin-top:8px"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">【障害福祉分】… <a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00148.html" target="_blank" title="障害福祉サービス施設・事業所等に勤務する職員に対する慰労金の支給と新型コロナウイルス感染症対策の徹底支援" style="font-size :88%;letter-spacing: -1px;">障害福祉サービス施設・事業所等に勤務する職員に対する慰労金の支給と新型コロナウイルス感染症対策の徹底支援</a></p>
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/34/covid19_border1.png?MOD=AJPERES" alt="関係線画像" title="関係線画像" style="float: left;margin-left:90px;margin-right: 4px;" />
+<p><a href="https://www.mhlw.go.jp/content/000644197.pdf" target="_blank" title="事業の概要" style="font-size :88%;">事業の概要（PDF：1MB）</a></p>
+<p><a href="https://www.mhlw.go.jp/content/000649303.pdf" target="_blank" title="パンフレット" style="font-size :88%;">パンフレット（PDF：890KB）</a></p>
+<p style="margin-left :90px;margin-top :8px;font-size :88%;color :green;">※ 申請方法や支給対象者の要件等の詳細につきましては、各都道府県のホームページをご確認ください。</p>
+<p style="margin-left:30px;margin-top:40px">
+<img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">「<a href="https://covid19.mhlw.go.jp/" target="_blank" title="データからわかる－新型コロナウイルス感染症情報－">データからわかる－新型コロナウイルス感染症情報－</a>」</p>
+<p style="font-size: 90%;margin-left: 90px;margin-right: 40px;">これまでに発信・蓄積されてきたデータが、よりわかりやすく可視化された新ページです。</p>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;" id="200b">〇 東京都 － <span style="font-weight:bold;font-size:85%"><a href="https://www.fukushihoken.metro.tokyo.lg.jp/" title="東京都福祉保健局" target="_blank">東京都福祉保健局</a></span></p>
+<p style="margin-left:30px;margin-top:10px;"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">「<a href="https://www.fukushihoken.metro.tokyo.lg.jp/kourei/shisetu/covid19douga.html" target="_blank" title="【動画・教材】高齢者施設における新型コロナウイルス感染症予防">【動画・教材】高齢者施設における新型コロナウイルス感染症予防</a>」</p>
+<p style="font-size:80%;margin-left:85px;width:500px;text-indent: -15px;">※ 東京都福祉保健局が、高齢者施設における感染予防を支援するため、新型コロナウイルス感染症対策に役立つ動画を公開しています。</p>
+</md-tab-body>
+</md-tab>
+<md-tab>
+<md-tab-label><img src="/content/img/covid19/covid19_icon01202.png" style="width: 11%;vertical-align: middle;margin: -3px 8px 0px 0px;" title="医療関係者向け" alt=""><span style="color:#07A7FF">医療・福祉関係者向け</span></md-tab-label>
+<md-tab-body>
+<p style="font-weight: bold;font-size: 120%;margin-top: 35px;margin-left: 20px;height: 29px;">〇 厚生労働省ホームページ</p>
+<p style="margin-left: 30px;">「<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html" target="_blank" title="新型コロナウイルス感染症について">新型コロナウイルス感染症について</a>」</p>
+<hr class="line35">
+<p style="margin-top: 25px;margin-left: 10%;margin-bottom: 10px;">この中に、下のようなリンクページが含まれています。</p>
+<p style="margin-left: 12%;">
+<img src="/content/img/covid19/covid19_icon01202.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="医療関係者向け" alt="医療関係者向け"><a href="https://www.wam.go.jp/gyoseiShiryou/detail-list?bun=030100655" target="_blank" title="新型コロナウイルス感染症対策アドバイザリーボードへのリンク">新型コロナウイルス感染症対策アドバイザリーボード【行政情報＞医療】</a></p></br>
+<hr class="line36">
+<p><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_00184.html" title="新型コロナワクチンについて" target="_blank">新型コロナワクチンについて</a></p>
+<hr class="line33">
+<hr class="line37">
+<p class="p1"><img src="/content/img/covid19/covid19_icon01202.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 0px;" title="医療関係者向け" alt="医療関係者向け"><a href="https://www.mhlw.go.jp/content/000788723.pdf" title="「新型コロナウイルス感染症のワクチン接種を推進するための各医療関係職種の専門性を踏まえた対応の在り方等について」（医政局長、健康局長、医薬・生活衛生局長通知）" target="_blank">「新型コロナウイルス感染症のワクチン接種を推進するための各医療関係職種の専門性を踏まえた対応の在り方等について」（医政局長、健康局長、医薬・生活衛生局長通知）</a></p>
+<hr class="line13">
+<p style="margin-top:40px;"><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00332.html" target="_blank" title="医療機関等向け情報">医療機関等向け情報</a></p>
+<p style="margin-left:12%;margin-top:5px;"><img src="/content/img/covid19/covid19_icon01202.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="医療関係者向け" alt="医療関係者向け"><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00004.html" target="_blank" title="新型コロナウイルスに関するQ&amp;A（医療機関・検査機関の方向け）">新型コロナウイルスに関するQ&A（医療機関・検査機関の方向け）</a></p>
+
+<p style="margin-left:12%;"><img src="/content/img/covid19/covid19_icon01202.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="医療関係者向け" alt="医療関係者向け">
+<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00111.html" target="_blank" title="新型コロナウイルス感染症 診療の手引き">新型コロナウイルス感染症 診療の手引き</a> </p>
+<p style="margin-left: 12%;"><img src="/content/img/covid19/covid19_icon01202.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="医療関係者向け" alt="医療関係者向け">「<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/11596.html" target="_blank" title="医療のお仕事 Key-NET">医療のお仕事 Key-NET</a>」</p>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;" id="001a">〇 専門職向け相談窓口</p>
+<!--<p style="margin-left: 30px;margin-top:5px"><img src="/content/img/covid19/covid19_icon01202.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="医療関係者向け" alt="医療関係者向け">「<a href="https://www.jcma.or.jp" target="_blank" title="介護事業所等の感染防止対策のための相談・支援チャットボット">介護事業所等の感染防止対策のための相談・支援チャットボット</a>」</p>
+<p style="font-size:80%;margin-left: 85px;width:500px;text-indent: -15px;">（一般社団法人 日本介護支援専門員協会）・・・厚生労働省 補助対象事業</p>
+<p style="font-size:80%;margin-left: 75px;width:500px;text-indent: -15px;margin-top: 5px;">※介護保険サービス等に従事する看護職・介護職の皆様に向けた、新型コロナウイルス感染症対策等の相談・質問について対応するチャットボットサービスです。</p>-->
+<p style="margin-left: 30px;margin-top:5px" class="ng-scope"><img src="/content/img/covid19/covid19_icon01202.png" style="width: 2%;vertical-align: middle;margin: -3px 8px 0px 3px;margin-right:10px;" title="医療関係者向け" alt="医療関係者向け"><a href="https://kokoro.mhlw.go.jp/agency/" title="こころの耳：働く人のメンタルヘルス・ポータルサイト ＞ 相談窓口案内（厚生労働省）" target="_blank">こころの耳：働く人のメンタルヘルス・ポータルサイト ＞ 相談窓口案内（厚生労働省）</a></p>
+<p style="font-size:80%;margin-left: 75px;text-indent: -15px;margin-top: 5px;" class="ng-scope">※ 働く人の相談窓口について、働く人のメンタルヘルス・ポータルサイト「こころの耳」で紹介されています。</p>
+</md-tab-body>
+</md-tab>
+</md-tabs>
+</md-content>
+</div>
+<p style="font-weight: bold;font-size: 120%;margin-top: 100px;margin-left: 20px;" id="003">〇 独立行政法人福祉医療機構（WAM）</p>
+<a href="https://www.wam.go.jp/hp/fukui_shingatacorona/" target="_blank" title="福祉・医療関係施設の経営資金等の優遇融資" style="text-decoration:none;"><div style="float: right;margin-top: -65px;margin-right: 290px;">
+<img alt="アイコン" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/35/wamlink.png?MOD=AJPERES" title="" style="width: 230px;" />
+<p style="color: white;margin-top: -50px;position: relative;z-index: 999;margin-left: 33px;font-size: 90%;">福祉・医療関係施設の</p>
+<p style="color:white;margin-left: 33px;font-size: 90%;">経営資金等の優遇融資</p>
+</div>
+</a>
+<p style="margin-left:5%">「<a href="https://www.wam.go.jp/hp/fukui_shingatacorona/" target="_blank" title="新型コロナウイルスの感染により事業停止等となった事業者に対する福祉医療貸付事業の対応について">新型コロナウイルスの感染により事業停止等となった事業者に対する福祉医療貸付事業の対応について</a>」</p>
+<p style="margin-left:5%">「<a href="https://www.wam.go.jp/hp/kyousai_korona_taiou/" target="_blank" title="新型コロナウイルスの影響による退職手当共済事業の掛金納付期限延長手続きのご案内について">新型コロナウイルスの影響による退職手当共済事業の掛金納付期限延長手続きのご案内について</a>」</p>
+<p style="margin-left:30px"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">新型コロナウイルス対応支援資金説明動画</p>
+<table style="width: 45%;margin-left: 85px;"><tr><td style="text-align:center;padding:10px 20px;">
+<a href="https://www.wam.go.jp/content/wamnet/pcpub/top/covid19/covid19anime.html" title="新型コロナウイルス対応支援資金説明動画" target="">
+<div style="border:2px solid #BFBFBF;background:white;width:100%;padding:10px 5px">
+<img alt="新型コロナウイルス対応支援資金説明動画" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/36/cov19002.png?MOD=AJPERES" title="" style="width:190px;height:105px;" />
+</div>
+</a>
+<p style="margin-top:10px;"><a href="https://www.wam.go.jp/content/wamnet/pcpub/top/covid19/covid19anime.html" title="病院・診療所向け" target="">病院・診療所向け</a></p></td><td style="text-align:center;padding:10px 20px;">
+<a href="https://www.wam.go.jp/content/wamnet/pcpub/top/covid19/covid19anime_f.html" title="福祉関係施設等向け" target="">
+<div style="border:2px solid #BFBFBF;background:white;width:100%;padding:10px 5px">
+<img alt="福祉関係施設等向け" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/37/cov19003.png?MOD=AJPERES" title="" style="width:190px;height:105px;" /></div>
+</a>
+<p style="margin-top:10px;"><a href="https://www.wam.go.jp/content/wamnet/pcpub/top/covid19/covid19anime_f.html" title="福祉関係施設" target="">福祉関係施設等向け</a></p></td></tr></table>
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/38/new.jpg?MOD=AJPERES" alt="new" title="" style="vertical-align: middle;width: 25px;margin-right: -5px;margin-left: 5px;float:left;margin-top:6px" class="ng-scope" /><p style="margin-left:30px"><img src="/content/img/covid19/02.png" style="width: 18px;vertical-align: middle;margin: -3px 8px 0px 3px;" title="施設経営者向け" alt="">新型コロナウイルス感染症に伴う影響調査（特別調査）</p>
+<p style="margin-left: 70px;width: 90%;">ＷＡＭでは、新型コロナウイルス感染症に伴う、特別養護老人ホーム・病院の経営・運営への影響等の把握のため、特別調査を実施し、結果を公表しています。</p>
+<p style="margin-left: 30px;margin-top: 10px;">「<a href="https://www.wam.go.jp/content/wamnet/pcpub/top/keieidoukou/keieidoukou001.html" title="経営動向調査" target="_blank">経営動向調査</a>」　　　特別養護老人ホームは<a href="https://www.wam.go.jp/content/wamnet/pcpub/top/keieidoukou/syakaifukushihoujinkeieidoukou/syakaifukushihoujinkeieidoukou001.html" target="_blank" title="特別養護老人ホーム">こちら</a>　　　病院は<a href="https://www.wam.go.jp/content/wamnet/pcpub/top/keieidoukou/iryouhoujinkeieidoukou/iryouhoujinkeieidoukou001.html" title="病院" target="_blank">こちら</a></p>
+<p style="margin-top: 10px;margin-left: 85px;width: 90%;text-indent:-1em">※2020年6月から2021年3月調査までは通常の調査と別冊でしたが、2021年6月調査から１冊にまとめていますので、ページ後半をご覧ください</p>
+
+
+</div>
+<p style="margin-left: 20px;margin-top:80px">その他参考として、各府省庁等における新型コロナウイルス感染症対策関連の情報をリンクでご案内します。</p>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;" id="002">〇 <a href="http://www.kantei.go.jp/" target="_blank" title="首相官邸">首相官邸</a></p>
+<p style="margin-left:30px">「<a href="http://www.kantei.go.jp/jp/headline/kansensho/coronavirus.html" target="_blank" title="新型コロナウイルス感染症に備えて">新型コロナウイルス感染症に備えて　～一人ひとりができる対策を知っておこう～</a>」</p>
+<div style="margin-left: 40px;margin-top: 15px;font-size: 95%;"><img alt="画像" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/39/colorline.png?MOD=AJPERES" title="" style="float: left;margin-right: 15px;width: 5px;margin-top: 5px;height: 105px;" /><p>・ 感染拡大を防止するために</p>
+<p>・ 各種支援について</p>
+<p>・ 新型コロナウイルスに関するQ＆A</p>
+<p>・ 各都道府県の相談窓口</p>
+<p>・ 啓発資料（チラシ等）</p>
+<p style="margin-left: 20px;margin-top: 5px;font-size: 90%">※ その他の情報や詳細についてはリンク先をご確認ください</p>
+<p style="margin-left: 20px;margin-top: 5px;font-size: 90%"><a href="https://www.wam.go.jp/gyoseiShiryou/detail-list?bun=030120020" target="_blank" title="外部サイトへ移動">（参考）新型コロナウイルス感染症対策本部　【行政情報＞医療】</a></p>
+</div>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;">〇 <a href="https://www.cas.go.jp/" target="_blank" title="内閣官房">内閣官房</a></p>
+<p style="margin-left:30px">「<a href="https://corona.go.jp/" target="_blank" title="新型コロナウイルス感染症対策">新型コロナウイルス感染症対策</a>」</p>
+<div style="margin-left: 40px;margin-top: 15px;font-size: 95%;"><img alt="画像" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/40/colorline.png?MOD=AJPERES" title="" style="float: left;margin-right: 15px;width: 5px;margin-top: 5px;height: 80px;" /><p>・ <a href="https://corona.go.jp/news/" target="_blank" title="最新の情報">最新の情報</a></p>
+<p>・ <a href="https://corona.go.jp/action/" target="_blank" title="各種支援・行政の取組み">各種支援・行政の取組み</a></p>
+<p>・ <a href="https://corona.go.jp/prevention/" target="_blank" title="スマートライフのために">スマートライフのために</a></p>
+<p>・ <a href="https://corona.go.jp/expert-meeting/" target="_blank" title="対策本部等資料">対策本部等資料</a></p>
+<p style="margin-left: 20px;margin-top: 5px;font-size: 90%">※ その他の情報や詳細についてはリンク先をご確認ください</p>
+<p style="margin-left: 20px;margin-top: 5px;font-size: 90%"><a href="https://www.wam.go.jp/gyoseiShiryou/detail-list?bun=030120030" target="_blank" title="外部サイトへ移動">（参考）新型コロナウイルス感染症対策分科会　【行政情報＞医療】</a></p>
+</div>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;">〇 <a href="https://www.cao.go.jp/" target="_blank" title="内閣府">内閣府</a></p>
+<p style="margin-left: 30px;">「<a href="https://www.cao.go.jp/others/kichou/covid-19.html" target="_blank" title="新型コロナウイルス感染症関連">新型コロナウイルス感染症関連</a>」</p>
+<p style="margin-left: 60px;margin-top: 5px;font-size: 90%">※ その他の情報や詳細についてはリンク先をご確認ください</p>
+<a href="http://www.bousai.go.jp/" target="_blank" title="コロナを踏まえた災害対応のポイント（内閣府ホームページ）">
+<div class="divlink" style="background: rgb(255, 242, 204); border: 2px solid rgb(242, 242, 242); width: 35%; margin-left: 11%; margin-top: 30px; height: 155px;" id="divlink1">
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/41/linkicon.png?MOD=AJPERES" alt="リンクアイコン" title="" style="float: right;width: 20px;margin-right: 10px;margin-top: 7px;" />
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/42/vis.png?MOD=AJPERES" alt="コロナアイコン" title="" style="width: 25px;float: left;margin-left: 277px;margin-top: 37px;" />
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/43/home.png?MOD=AJPERES" alt="ホームアイコン" title="" style="width: 25px;float: left;margin-left: 300px;margin-top: -13px;" />
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/44/pdf.png?MOD=AJPERES" alt="pdfアイコン" title="" style="width: 15px;float: left;margin-left: -315px;margin-top: 10px;height: 15px;" />
+<img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/45/pdf.png?MOD=AJPERES" alt="pdf" title="" style="width: 15px;float: left;margin-left: -315px;margin-top: 38px;height: 15px;" />
+</div></a>
+<p style="float:left;font-size: 115%;font-weight: bold;margin-left: 12%;margin-top: -155px;" class="linkdiva">
+<a href="http://www.bousai.go.jp/" title="コロナを踏まえた災害対応のポイント（内閣府ホームページ）" target="_blank">コロナを踏まえた災害対応の<br>ポイント（内閣府ホームページ）</a></p>
+<p style="font-size: 60%;margin-left: 14%;margin-top: -85px;float: left;letter-spacing: -1px;" class="linkdiva"><a href="http://www.bousai.go.jp/pdf/covid19_tsuuchi.pdf" title="新型コロナウイルス感染症を踏まえた災害対応のポイント【第1版】" target="_blank">新型コロナウイルス感染症を踏まえた災害対応のポイント【第1版】</a></p>
+<p style="font-size: 60%;margin-left: 14%;margin-top: -55px;letter-spacing: -1px;float: left;" class="linkdiva"><a href="http://www.bousai.go.jp/pdf/hinanjyo_covid19_01.pdf" title="新型コロナウイルス感染症対策に配慮した避難所運営のポイントについて" target="_blank">新型コロナウイルス感染症対策に配慮した避難所運営のポイントについて</a></p>
+<a href="http://www.bousai.go.jp/" title="コロナを踏まえた災害対応のポイント（内閣府ホームページ）" target="_blank" style="color:black;text-decoration:none"><img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/46/ue.png?MOD=AJPERES" alt="矢印" title="" style="margin-top: -35px;width: 25px;float: left;margin-left: 15%;" class="linkdiva" />
+<span style="font-size: 70%;margin-left: 19%;margin-top: -30px;float: left;color:black;" class="linkdiva">解説動画</span><img src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/47/play.png?MOD=AJPERES" alt="プレーアイコン" title="" style="width: 20px;float: left;margin-top: -32px;margin-left: 24%;" class="linkdiva" /></a>
+<span style="float: left;margin-left: 26%;margin-top: -30px;font-size: 70%;" class="linkdiva">（<a href="https://www.youtube.com/watch?v=TVYUgKfOHUE" title="解説動画①" target="_blank" style="margin-left: 3px;">①</a>｜</span>
+<span style="float: left;margin-left: 30%;margin-top: -30px;font-size: 70%;" class="linkdiva"><a href="https://www.youtube.com/watch?v=FldEmu8Cq5I" title="解説動画②" target="_blank">②</a></span>
+<span style="float: left;margin-left: 31.5%;margin-top: -30px;font-size: 70%;" class="linkdiva">｜<a href="https://www.youtube.com/watch?v=KKcd73NBm-c" title="解説動画③" target="_blank">③</a><span style="margin-left:3px">）</span></span>
+
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;">〇 <a href="https://www.soumu.go.jp/" target="_blank" title="総務省">総務省</a></p>
+<p style="margin-left:30px">「<a href="https://www.soumu.go.jp/menu_seisaku/gyoumukanri_sonota/covid-19/index.html" target="_blank" title="新型コロナウイルス感染症対策関連">新型コロナウイルス感染症対策関連</a>」</p>
+<div style="margin-left: 40px;margin-top: 15px;font-size: 95%;"><img alt="画像" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/48/colorline.png?MOD=AJPERES" title="" style="float: left;margin-right: 15px;width: 5px;margin-top: 5px;height: 105px;" /><p>・ <a href="https://www.soumu.go.jp/menu_seisaku/gyoumukanri_sonota/covid-19/kyufukin.html" target="_blank" title="特別定額給付金">特別定額給付金</a>　・・・ 特別定額給付金関係について掲載しています。</p>
+<p style="margin-left:40px">→ <a href="https://kyufukin.soumu.go.jp/ja-JP/" target="_blank" title="特別定額給付金">特別定額給付金ポータルサイト</a>　・・・ 特別定額給付金の特設サイトです。</p>
+<p>・ <a href="https://www.soumu.go.jp/menu_seisaku/gyoumukanri_sonota/covid-19/ryokin.html" target="_blank" title="公共料金関係">公共料金関係</a>　・・・ 公共料金の支払い猶予等について掲載しています。</p>
+<p>・ <a href="https://www.soumu.go.jp/menu_seisaku/gyoumukanri_sonota/covid-19/ict.html" target="_blank" title="情報通信関係">情報通信関係</a>　・・・テレワーク実施の相談や携帯電話料金の支払い期限延長等について掲載しています。</p>
+<p style="letter-spacing: -0.2px;">・ <a href="https://www.soumu.go.jp/main_sosiki/hyouka/soudan_n/soudan_uketuke.html" target="_blank" title="行政相談の受付窓口">行政相談の受付窓口</a>　・・・ 「どこに相談したらよいかわからない」といったお問合せや、行政全般の相談を受け付けています。</p>
+<p style="margin-left: 20px;margin-top: 5px;font-size: 90%">※ その他の情報や詳細についてはリンク先をご確認ください</p></div>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;">〇 <a href="http://www.moj.go.jp/index.html" target="_blank" title="法務省">法務省</a></p>
+<p style="margin-left:30px">「<a href="http://www.moj.go.jp/hisho/kouhou/20200131comment.html" target="_blank" title="新型コロナウイルス感染症関連情報">新型コロナウイルス感染症関連情報</a> 」</p>
+<div style="margin-left: 40px;margin-top: 15px;font-size: 95%;"><img alt="画像" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/49/colorline.png?MOD=AJPERES" title="" style="float: left;margin-right: 15px;width: 5px;margin-top: 5px;height: 80px;" /><p>・ 新型コロナウイルス感染症の拡大防止に係る上陸拒否について</p>
+<p>・ 新型コロナウイルス感染症に関する政府の取組</p>
+<p>・ 新型コロナウィルス感染防止に係る上陸審査の状況</p>
+<p>・ 新型コロナウイルス感染症に関する在留諸申請における取扱い等</p>
+<p style="margin-left: 20px;margin-top: 5px;font-size: 90%">※ その他の情報や詳細についてはリンク先をご確認ください</p></div>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;">〇 <a href="https://www.mofa.go.jp/mofaj/" target="_blank" title="外務省">外務省</a></p>
+<p style="margin-left:30px">「<a href="https://www.anzen.mofa.go.jp/covid19/country_count.html" target="_blank" title="各国・地域における新型コロナウイルスの感染状況">各国・地域における新型コロナウイルスの感染状況</a>」</p>
+<div style="margin-left: 40px;margin-top: 15px;font-size: 95%;"><img alt="画像" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/50/colorline.png?MOD=AJPERES" title="" style="float: left;margin-right: 15px;width: 5px;margin-top: 5px;height: 35px;" /><p>・ <a href="https://www.anzen.mofa.go.jp/covid19/country_count.html#graph" target="_blank" title="感染状況の推移">感染状況の推移</a></p>
+<p>・ <a href="https://www.anzen.mofa.go.jp/covid19/country_count.html#country" target="_blank" title="感染者の確認されている国・地域">感染者の確認されている国・地域</a></p>
+<p style="margin-left: 20px;margin-top: 5px;font-size: 90%">※ その他の情報や詳細についてはリンク先をご確認ください</p></div>
+<p style="margin-left:30px;margin-top:20px">「<a href="https://www.anzen.mofa.go.jp/covid19/pdfhistory_world.html" target="_blank" title="海外安全ホームページ｜新型コロナウイルス（日本からの渡航者・日本人に対する各国・地域の入国制限措置及び入国・入域後の行動制限）">海外安全ホームページ｜新型コロナウイルス（日本からの渡航者・日本人に対する各国・地域の入国制限措置及び入国・入域後の行動制限）</a>」</p>
+<div style="margin-left: 40px;margin-top: 15px;font-size: 95%;"><img alt="画像" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/51/colorline.png?MOD=AJPERES" title="" style="float: left;margin-right: 15px;width: 5px;margin-top: 5px;height: 35px;" /><p>・ 日本からの渡航者や日本人に対して入国制限措置をとっている国・地域</p>
+<p>・ 日本からの渡航者や日本人に対して入国後に行動制限措置をとっている国・地域
+<p style="margin-left: 20px;margin-top: 5px;font-size: 90%">※ その他の情報や詳細についてはリンク先をご確認ください</p></div>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;">〇 <a href="https://www.mext.go.jp/" target="_blank" title="文部科学省">文部科学省</a></p>
+<p style="margin-left:30px">「<a href="https://www.mext.go.jp/a_menu/coronavirus/index.html" target="_blank" title="新型コロナウイルスに関連した感染症対策に関する対応について">新型コロナウイルスに関連した感染症対策に関する対応について</a>」</p>
+<div style="margin-left: 40px;margin-top: 15px;font-size: 95%;"><img alt="画像" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/52/colorline.png?MOD=AJPERES" title="" style="float: left;margin-right: 15px;width: 5px;margin-top: 5px;height: 125px;" /><p>・ <a href="https://www.mext.go.jp/a_menu/coronavirus/mext_00001.html" target="_blank" title="学校再開に向けて（Q&amp;A、通知等）">学校再開に向けて（Q&A、通知等）</a></p>
+<p>・ <a href="https://www.mext.go.jp/a_menu/coronavirus/mext_00002.html" target="_blank" title="新型コロナウイルスに関連した文部科学省関係の手続等についての対応">新型コロナウイルスに関連した文部科学省関係の手続等についての対応</a></p>
+<p>・ <a href="https://www.mext.go.jp/a_menu/coronavirus/mext_00602.html" target="_blank" title="新型コロナウイルスに関連した文部科学省関係の相談窓口">新型コロナウイルスに関連した文部科学省関係の相談窓口</a></p>
+<p>・ <a href="https://www.mext.go.jp/a_menu/coronavirus/mext_00517.html" target="_blank" title="学校臨時休業・春休みに関するQ&amp;A （子供たち、保護者、一般の方へ）">学校臨時休業・春休みに関するQ&A （子供たち、保護者、一般の方へ）</a></p>
+<p>・ <a href="https://www.mext.go.jp/a_menu/coronavirus/index_00006.html" target="_blank" title="学校の臨時休業の実施状況、取組事例等について">学校の臨時休業の実施状況、取組事例等について</a></p>
+<p>・ <a href="https://www.mext.go.jp/a_menu/coronavirus/mext_00004.html" target="_blank" title="新型コロナウイルスに関連した研究機関・研究者、科学技術関連行政機関向けの情報提供">新型コロナウイルスに関連した研究機関・研究者、科学技術関連行政機関向けの情報提供</a></p>
+<p style="margin-left: 20px;margin-top: 5px;font-size: 90%">※ その他の情報や詳細についてはリンク先をご確認ください</p></div>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;">〇 <a href="https://www.maff.go.jp/" target="_blank" title="農林水産省">農林水産省</a></p>
+<p style="margin-left:30px">「<a href="https://www.maff.go.jp/j/saigai/n_coronavirus/index.html" target="_blank" title="新型コロナウイルス感染症について">新型コロナウイルス感染症について</a>」</p>
+<div style="margin-left: 40px;margin-top: 15px;font-size: 95%;"><img alt="画像" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/53/colorline.png?MOD=AJPERES" title="" style="float: left;margin-right: 15px;width: 5px;margin-top: 5px;height: 60px;" /><p>・ <a href="https://www.maff.go.jp/j/saigai/n_coronavirus/index.html#c01" target="_blank" title="国民の皆様へ">国民の皆様へ</a></p>
+<p>・ <a href="https://www.maff.go.jp/j/saigai/n_coronavirus/index.html#c06" target="_blank" title="相談窓口">相談窓口</a></p>
+<p>・ <a href="https://www.maff.go.jp/j/saigai/n_coronavirus/020205.html" target="_blank" title="農林水産省のこれまでの取組">農林水産省のこれまでの取組</a></p>
+<p style="margin-left: 20px;margin-top: 5px;font-size: 90%">※ その他の情報や詳細についてはリンク先をご確認ください</p></div>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;">〇 <a href="https://www.meti.go.jp/" target="_blank" title="経済産業省">経済産業省</a></p>
+<p style="margin-left:30px">「<a href="https://www.meti.go.jp/covid-19/index.html" target="_blank" title="新型コロナウイルス感染症関連">新型コロナウイルス感染症関連</a>」</p>
+<div style="margin-left: 40px;margin-top: 15px;font-size: 95%;"><img alt="画像" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/54/colorline.png?MOD=AJPERES" title="" style="float: left;margin-right: 15px;width: 5px;margin-top: 5px;height: 105px;" /><p style="text-indent: -15px;margin-left: 35px;">・ <a href="https://www.meti.go.jp/covid-19/index.html#00" target="_blank" title="支援策パンフレット">支援策パンフレット</a>　・・・新型コロナウイルス感染症で影響を受ける事業者の皆様にご活用いただける支援策がパンフレットにまとめられています。</p>
+<p style="text-indent: -15px;margin-left: 35px;">・ <a href="https://www.meti.go.jp/covid-19/index.html#01" target="_blank" title="資金繰り支援（貸付・保証）">資金繰り支援（貸付・保証）</a>　・・・新型コロナウイルス感染症の拡大の影響を受けている事業者の方々への資金繰りについての支援情報が掲載されています。</p>
+<p>・ <a href="https://www.meti.go.jp/covid-19/index.html#09" target="_blank" title="新型コロナウイルス感染症対策の支援情報公開・検索サービスについて">新型コロナウイルス感染症対策の支援情報公開・検索サービスについて</a></p>
+<p style="margin-left: 20px;margin-top: 5px;font-size: 90%">※ その他の情報や詳細についてはリンク先をご確認ください</p></div>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;">〇 <a href="https://www.mlit.go.jp/" target="_blank" title="国土交通省">国土交通省</a></p>
+<p style="margin-left:30px">「<a href="https://www.mlit.go.jp/kikikanri/kikikanri_tk_000018.html" target="_blank" title="新型コロナウイルス感染症に関する国土交通省の対応">新型コロナウイルス感染症に関する国土交通省の対応</a>」</p>
+<p style="margin-left: 60px;margin-top: 5px;font-size: 90%">※ その他の情報や詳細についてはリンク先をご確認ください</p>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;">〇 <a href="https://www.env.go.jp/" target="_blank" title="環境省">環境省</a></p>
+<p style="margin-left:30px">「<a href="https://www.env.go.jp/saigai/novel_coronavirus_2020.html" target="_blank" title="新型コロナウイルスに関連した感染症対策">新型コロナウイルスに関連した感染症対策</a>」</p>
+<div style="margin-left: 40px;margin-top: 15px;font-size: 95%;"><img alt="画像" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/55/colorline.png?MOD=AJPERES" title="" style="float: left;margin-right: 15px;width: 5px;margin-top: 0px;height: 22px;" /><p>・ <a href="https://www.wbgt.env.go.jp/" target="_blank" title="熱中症予防情報サイト">熱中症予防情報サイト</a></p>
+</div>
+<p style="margin-left: 60px;margin-top: 5px;font-size: 90%">※ その他の情報や詳細についてはリンク先をご確認ください</p>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;">〇 <a href="https://www.fsa.go.jp/" target="_blank" title="金融庁">金融庁</a></p>
+<p style="margin-left:30px">「<a href="https://www.fsa.go.jp/ordinary/coronavirus202001/press.html" target="_blank" title="新型コロナウイルス感染症関連情報">新型コロナウイルス感染症関連情報</a>」</p>
+<div style="margin-left: 40px;margin-top: 15px;font-size: 95%;"><img alt="画像" src="/wps/wcm/myconnect/053c6fbc-1456-47e4-9ec6-acd6db299634/56/colorline.png?MOD=AJPERES" title="" style="float: left;margin-right: 15px;width: 5px;margin-top: 5px;height: 80px;" /><p>・ <a href="https://www.fsa.go.jp/ordinary/coronavirus202001/press.html#01" target="_blank" title="相談窓口">相談窓口</a>　・・・ 金融庁、各財務局の相談窓口等</p>
+<p>・ <a href="https://www.fsa.go.jp/ordinary/coronavirus202001/press.html#02" target="_blank" title="新型コロナウイルス感染症の影響による資金繰りやローンの返済等でお困りの皆様へ">新型コロナウイルス感染症の影響による資金繰りやローンの返済等でお困りの皆様へ</a></p>
+<p>・ <a href="https://www.fsa.go.jp/ordinary/coronavirus202001/press.html#03" target="_blank" title="新型コロナウイルスに乗じた犯罪に関する注意喚起">新型コロナウイルスに乗じた犯罪に関する注意喚起</a></p>
+<p>・ <a href="https://www.fsa.go.jp/ordinary/coronavirus202001/press.html#06" target="_blank" title="新型コロナウイルス感染症を踏まえた金融機関の対応事例">新型コロナウイルス感染症を踏まえた金融機関の対応事例</a></p>
+<p style="margin-left: 20px;margin-top: 5px;font-size: 90%">※ その他の情報や詳細についてはリンク先をご確認ください</p></div>
+<p style="font-weight: bold;font-size: 120%;margin-top: 40px;margin-left: 20px;">〇 <a href="https://j-net21.smrj.go.jp/" target="_blank" title="J-Net21">J-Net21</a>（<a href="https://www.smrj.go.jp/" target="_blank" title="中小企業基盤整備機構">中小企業基盤整備機構</a>）</a></p>
+<p style="margin-left:30px">「<a href="https://j-net21.smrj.go.jp/support/tsdlje00000085bc.html" target="_blank" title="新型コロナウィルス関連（都道府県別）">新型コロナウィルス関連（都道府県別）</a>」</p>
+<p style="margin-left: 25px;">　・・・ 新型コロナウィルスに関する地域の補助金・助成金・融資の情報がまとめられています。</p>
